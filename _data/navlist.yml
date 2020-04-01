@@ -3,8 +3,8 @@ docs:
 - pagetitle: About
   url: /
   
-- pagetitle: Workshops
-  url: /Workshops
+- pagetitle: workshops
+  url: /workshops
   
 #- pagetitle: Videos
 #  url: /videos
