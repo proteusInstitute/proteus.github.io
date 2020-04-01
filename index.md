@@ -1,6 +1,6 @@
 ## About
 
-![image](https://proteusInstitute.github.io/img/Proteus.png)
+![image](https://proteusInstitute.github.io/img/Proteus.png =250x)
 Dedicated to facilitating the creation of bio-inspired Artificial Intelligence.
 <br><br>
 
