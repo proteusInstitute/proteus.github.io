@@ -1,6 +1,6 @@
 ## About
 
-![image](https://cdorgs.github.io/img/00_Design_Organism_Pair_GreenEctoderm_RedCardiac.png)
+![image](https://proteusInstitute.github.io/img/Proteus.png)
 Dedicated to facilitating the creation of bio-inspired Artificial Intelligence.
 <br><br>
 
