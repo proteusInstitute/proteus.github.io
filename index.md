@@ -1,7 +1,7 @@
 ## About
 
 ![image](https://cdorgs.github.io/img/00_Design_Organism_Pair_GreenEctoderm_RedCardiac.png)
-Most technologies are made from steel, concrete, chemicals and plastics, which degrade over time and can produce harmful ecological and health side effects. It would thus be useful to build technologies using self-renewing and biocompatible materials, of which the ideal candidates are living systems themselves. Thus, we here present a method that designs completely biological machines from the ground up: computers automatically design new machines in simulation, and the best designs are then built by combining together different biological tissues. This suggests others may use this approach to design a variety of living machines to safely deliver drugs inside the human body, help with environmental remediation, or further broaden our understanding of the diverse forms and functions life may adopt.
+Dedicated to facilitating the creation of bio-inspired Artificial Intelligence.
 <br><br>
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/WhFWNoBiKUc" frameborder="0" allowfullscreen></iframe>
