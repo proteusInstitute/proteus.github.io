@@ -23,7 +23,9 @@ The Virtual Artificial Life (ALife) Conference.
 July 13-18, 2020
 
 ### Who?
-Organizer: Josh Bongard
+
+Organizers: Josh Bongard, University of Vermont
+            Nick Cheney, University of Vermont
 
 Participants: To be determined.
 
