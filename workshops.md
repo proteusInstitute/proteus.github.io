@@ -1,6 +1,6 @@
 # Workshops
 
-A series of workshops dedicated to collaborative, bio-inspired, cloud-based AI construction.
+A series of workshops dedicated to collaborative, bio-inspired, cloud-based AI construction will be held.
 
 ## Proteus2020
 
