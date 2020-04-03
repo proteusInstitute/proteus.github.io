@@ -14,7 +14,7 @@ adaptive mechanisms from biology to AI and robotics, we will host a series of wo
 
 ## Proteus2020
 
-The first of several planned workshops.
+The first of several planned workshops. Emphasis will be placed on recruiting a development team, scoping general requirements, identifying key enabling technologies and potential applications.
 
 ### Where? 
 The Virtual Artificial Life (ALife) Conference.
