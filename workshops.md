@@ -39,9 +39,9 @@ One hour of next-step planning.
 
 #### Organizers: 
 
-1. Josh Bongard, University of Vermont
+1. [Josh Bongard](https://www.meclab.org/), University of Vermont
             
-1. Nick Cheney, University of Vermont
+1. [Nick Cheney](https://www.ncheney.com/), University of Vermont
 
 #### Participants: 
 
