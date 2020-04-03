@@ -26,13 +26,13 @@ July 13-18, 2020
 
 #### Organizers: 
 
-Josh Bongard, University of Vermont
+1. Josh Bongard, University of Vermont
             
-Nick Cheney, University of Vermont
+1. Nick Cheney, University of Vermont
 
-####Participants: 
+#### Participants: 
 
-To be determined.
+1. To be determined.
 
 ### What?
 Brainstorming session on constructing cyberinfrastructure that hosts continually-evolving agents. Research groups can code up software patches that simulate biological mechanisms. If those mechanisms are grafted into the agents by the evolutionary algorithm, this provides indirect evidence that 
