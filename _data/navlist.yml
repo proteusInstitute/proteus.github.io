@@ -6,6 +6,9 @@ docs:
 - pagetitle: Workshops
   url: /workshops
   
+- pagetitle: Contact
+  url: /contact
+  
 #- pagetitle: Videos
 #  url: /videos
   
