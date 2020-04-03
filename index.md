@@ -5,5 +5,3 @@ Living systems continue to outstrip the most adaptive state-of-the-art AI and ro
 <p style="text-align: center;">
 <img src="https://proteusInstitute.github.io/img/Proteus.png" alt="drawing">
 </p>
-
-To this end, we are hosting the first Proteus workshop during the summer of 2020 at the Virtual Artificial Life (ALife) conference, July 13 - 18.
