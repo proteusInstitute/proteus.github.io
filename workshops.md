@@ -1,9 +1,9 @@
-### Workshops
+# Workshops
 
 ## Proteus2020
 
-# Where? 
+### Where? 
 The Virtual Artificial Life (ALife) Conference.
 
-# When?
+### When?
 July 13-18, 2020
