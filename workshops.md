@@ -12,7 +12,7 @@ To prove this cycle can be broken, we plan to develop and deploy an open-source,
 To test how this approach accelerates transferal of
 adaptive mechanisms from biology to AI and robotics, we will host a series of workshops to initially brainstorm and then construct such a code base. Anyone willing and able to contribute code to such an effort is welcome to participate.
 
-## Proteus2020
+## The first Proteus workshop
 
 The first of several planned workshops. Emphasis will be placed on recruiting a development team, scoping general requirements, identifying key enabling technologies and potential applications.
 
