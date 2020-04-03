@@ -23,6 +23,8 @@ Emphasis will be placed on recruiting a development team, scoping general requir
 
 Topics to be discussed will include relevant software engineering methods and off-the-shelf tools, lessons learned from previous similar efforts (e.g. OpenWorm, the Blue Brain Project, TensorFlow, OpenAI Gym), biology-to-ALife best practices, physics engines, exporting designs to physical hardware (sim2real) and biological artifacts (sim2life), volunteer coding organization, timelining, and other related efforts.
 
+Anyone is welcome to sit in and observe, or actively participate in the brainstorming and (eventually) software development activities.
+
 ### Where? 
 The [Virtual Artificial Life (ALife) Conference](http://2020.alife.org). Zoom link will be provided closer to the event.
 
