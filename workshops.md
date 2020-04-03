@@ -1,5 +1,9 @@
-## About
+### Workshops
 
-<p style="text-align: center;">
-<img src="https://proteusInstitute.github.io/img/Proteus.png" alt="drawing">
-</p>
+## Proteus2020
+
+# Where? 
+The Virtual Artificial Life (ALife) Conference.
+
+# When?
+July 13-18, 2020
