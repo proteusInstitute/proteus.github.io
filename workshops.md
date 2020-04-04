@@ -25,10 +25,10 @@ Topics to be discussed will include relevant software engineering methods and of
 
 Anyone is welcome to sit in and observe, or actively participate in the brainstorming and (eventually) software development activities.
 
-### Where? 
+### **Where?** 
 The [Virtual Artificial Life (ALife) Conference](http://2020.alife.org). Zoom link will be provided closer to the event.
 
-### When?
+### **When?**
 July 13, 2020
 
 Two introductory 15-minute talks.
@@ -37,7 +37,7 @@ One hour of brainstorming.
 
 One hour of next-step planning.
 
-### Who?
+### **Who**?
 
 #### Organizers: 
 
