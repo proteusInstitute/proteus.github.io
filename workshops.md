@@ -17,7 +17,7 @@ adaptive mechanisms from biology to AI and robotics, we will host a series of wo
 
 The first of several planned workshops. 
 
-### What?
+### **What?**
 
 Emphasis will be placed on recruiting a development team, scoping general requirements, identifying key enabling technologies and potential applications.
 
