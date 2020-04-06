@@ -46,4 +46,3 @@ One hour of next-step planning.
 #### Participants: 
 
 1. To be determined.
-</details>
