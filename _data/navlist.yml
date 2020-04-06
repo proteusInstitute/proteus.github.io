@@ -5,9 +5,6 @@ docs:
   
 - pagetitle: Workshops
   url: /workshops
-  sublinks:
-    - title: The First Workshop
-      url: /workshop1
       
 - pagetitle: Inspiration
   url: /inspiration
