@@ -1,5 +1,11 @@
 # Workshops
 
+<details open>
+<summary>The First Proteus Workshop</summary>
+<br>
+Details about the workshop
+</details>
+
 Typically, investigators write code or build robots from scratch
 whenever starting a new AI or robotics project.
 This leads to specialized systems
