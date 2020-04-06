@@ -1,7 +1,8 @@
 # Workshops
 
+## The First Proteus Workshop
 <details closed>
-<summary> *The First Proteus Workshop* </summary>
+<summary> Details </summary>
 <br>
 Details about the workshop
 </details>
