@@ -30,13 +30,15 @@ The [Virtual Artificial Life (ALife) Conference](http://2020.alife.org). Zoom li
 
 Saturday July 18, 2020, 4 - 7pm Eastern Time.
 
-4:00 - 4:30pm -- Josh Bongard  -- Introduction and overview
-4:30 - 4:45pm -- Melanie Moses -- Robot swarms and Protean systems
-4:45 - 5:00pm -- Nick Cheney -- ML algorithms as Protean systems
+1. 4:00 - 4:30pm -- Josh Bongard  -- Introduction and overview
 
-5:00 - 6:00pm -- All -- Thinking --  Brainstorm a collaborative, continuously-running evolutionary algorithm to produce Protean systems.
+1. 4:30 - 4:45pm -- Melanie Moses -- Robot swarms and Protean systems
 
-6:00 - 7:00pm -- All -- Planning -- Voluneering for roles and responsibilities, tracking progress, recruiting new members, 
+1. 4:45 - 5:00pm -- Nick Cheney -- ML algorithms as Protean systems
+
+1. 5:00 - 6:00pm -- All -- Thinking --  Brainstorm a collaborative, continuously-running evolutionary algorithm to produce Protean systems.
+
+1. 6:00 - 7:00pm -- All -- Planning -- Voluneering for roles and responsibilities, tracking progress, recruiting new members, 
 
 ### **Who**?
 
