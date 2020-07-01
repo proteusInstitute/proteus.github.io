@@ -32,7 +32,7 @@ Saturday July 18, 2020, 4 - 7pm Eastern Time.
 
 1. 4:00 - 4:30pm -- Josh Bongard  -- Introduction and overview
 
-1. 4:30 - 4:45pm -- Melanie Moses -- Robot swarms and Protean systems
+1. 4:30 - 4:45pm -- Melanie Moses -- Robot swarms as Protean systems
 
 1. 4:45 - 5:00pm -- Nick Cheney -- ML algorithms as Protean systems
 
