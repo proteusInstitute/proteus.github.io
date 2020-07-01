@@ -27,13 +27,16 @@ Anyone is welcome to sit in and observe, or actively participate in the brainsto
 The [Virtual Artificial Life (ALife) Conference](http://2020.alife.org). Zoom link will be provided closer to the event.
 
 ### **When?**
-July 13, 2020
 
-Two introductory 15-minute talks.
+Saturday July 18, 2020, 4 - 7pm Eastern Time.
 
-One hour of brainstorming.
+4:00 - 4:30pm -- Josh Bongard  -- Introduction and overview
+4:30 - 4:45pm -- Melanie Moses -- Robot swarms and Protean systems
+4:45 - 5:00pm -- Nick Cheney -- ML algorithms as Protean systems
 
-One hour of next-step planning.
+5:00 - 6:00pm -- All -- Thinking --  Brainstorm a collaborative, continuously-running evolutionary algorithm to produce Protean systems.
+
+6:00 - 7:00pm -- All -- Planning -- Voluneering for roles and responsibilities, tracking progress, recruiting new members, 
 
 ### **Who**?
 
@@ -47,5 +50,6 @@ One hour of next-step planning.
 
 #### Participants: 
 
-1. To be determined.
+All are welcome. No need to sign up. Just visit the ALife 2020 Slack channel #workshop-proteus at the appointed time.
+
 </details>
