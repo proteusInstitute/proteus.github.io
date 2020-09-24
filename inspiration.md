@@ -1,1 +1,3 @@
 # [Inspiration](https://en.wikipedia.org/wiki/Proteus)
+
+All is revealed [here](https://en.wikipedia.org/wiki/Proteus)...
