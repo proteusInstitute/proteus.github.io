@@ -6,4 +6,4 @@ My [email](mailto:jbongard@uvm.edu).
 
 My [tweets](https://twitter.com/DoctorJosh).
 
-My [Obama pic](https://jbongard.github.io/img/2010_PECASE_HiRes.png}).
+My [Obama pic](https://jbongard.github.io/img/2010_PECASE_HiRes.png).
