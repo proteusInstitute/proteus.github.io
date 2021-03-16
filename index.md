@@ -4,4 +4,4 @@ My [CV](https://drive.google.com/file/d/1ij9w22ngco-nB_RXE6q5QZMTujVL0DFY/view?u
 
 My email: jbongard [at] uvm [dot] edu
 
-My twitter feed.
+My [tweets](https://twitter.com/DoctorJosh).
