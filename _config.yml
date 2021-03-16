@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
-title: Josh Bongard 
-description: Director, meclab.org 
+title: Josh Bongard
 plugins:
   - jekyll-relative-links
 relative_links:
