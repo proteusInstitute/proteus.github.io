@@ -1,6 +1,3 @@
-<a href="https://meclab.org"><img src="img/lab.png" width="100"/></a>
-<a href="https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao"><img src="img/publications.png" width="100"/></a>
-
 My
 [lab](https://meclab.org),
 [publications](https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao),
