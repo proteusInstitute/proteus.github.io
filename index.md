@@ -1,3 +1,4 @@
+| Header      | Title       |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
