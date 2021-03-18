@@ -1,3 +1,5 @@
+![lab](img/lab.png)
+
 My
 [lab](https://meclab.org),
 [publications](https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao),
