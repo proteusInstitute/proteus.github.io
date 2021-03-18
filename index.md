@@ -1,4 +1,5 @@
 ![lab](img/lab.png)
+![publications](img/publications.png)
 
 My
 [lab](https://meclab.org),
