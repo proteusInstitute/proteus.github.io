@@ -1,8 +1,9 @@
 <table cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td>Testing</td>
-    <td>Testing</td>
-    <td>Testing</td>
+    <td>[lab](https://meclab.org)</td>
+    <td>[publications](https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao)</td>
+    <td>[videos](https://www.youtube.com/results?search_query=josh+bongard)</td>
+    <td>[book](https://www.amazon.com/o/ASIN/0262162393/ref=s9_asin_title/103-1396384-1927027)</td>
   </tr>
 </table>
 
