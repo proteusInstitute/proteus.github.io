@@ -1,10 +1,5 @@
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+[Lab](https://meclab.org),
 
-My 
-[lab](https://meclab.org),
 [publications](https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao),
 [videos](https://www.youtube.com/results?search_query=josh+bongard),
 [book](https://www.amazon.com/o/ASIN/0262162393/ref=s9_asin_title/103-1396384-1927027),
