@@ -1,5 +1,4 @@
-![lab](img/lab.png =250x)
-![publications](img/publications.png =250x)
+<img src="img/lab.png" width="200"/>
 
 My
 [lab](https://meclab.org),
