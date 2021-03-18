@@ -1,9 +1,4 @@
-table {
-  width: 100%;
-  <tr>
-  <td>Testing</td>
-  </tr>
-}
+![lab](img/lab.png)
 
 My
 [lab](https://meclab.org),
