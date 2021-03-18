@@ -1,4 +1,4 @@
-<img src="img/lab.png" width="200"/>
+<a href="https://meclab.org"><img src="img/lab.png" width="100"/></a>
 
 My
 [lab](https://meclab.org),
