@@ -6,7 +6,7 @@ My
 [Edge responses](https://www.edge.org/memberbio/joshua_bongard),
 [tweets](https://twitter.com/DoctorJosh), 
 [schedule](https://docs.google.com/document/d/1-Jx9owNRMs1IbH1sXvOCXTqUIxyaJkOtlWzZfFVMZzQ/edit?usp=sharing) (including office hours),
-[CV](https://drive.google.com/file/d/1ij9w22ngco-nB_RXE6q5QZMTujVL0DFY/view?usp=sharing),
+[CV](https://jbongard.github.io/docs/CV.pdf),
 [contact details](https://www.uvm.edu/cems/cs/profiles/josh_bongard),
 and
 [Obama pic](https://jbongard.github.io/img/2010_PECASE_HiRes.png).
