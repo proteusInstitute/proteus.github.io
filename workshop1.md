@@ -39,4 +39,9 @@ Saturday July 18, 2020, 4 - 7pm Eastern Time.
 
 All are welcome. No need to sign up. Just visit the ALife 2020 Slack channel #workshop-proteus at the appointed time.
 
+## **What happened**?
+
+1. [Video introduction](https://youtu.be/oKm2Zgc8oAA).
+2. [Chat transcript](https://drive.google.com/file/d/1TXhtusv92E7DLqCjuS3Q7Th0jFdyqF3c/view?usp=sharing).
+
 </details>
