@@ -16,39 +16,3 @@ adaptive mechanisms from biology to AI and robotics, we will host a series of wo
 [The first Proteus workshop](workshop1.md).
 
 The second Proteus workshop.
- 
-## **The First Proteus Workshop**
-
-### **What?**
-
-Emphasis will be placed on recruiting a development team, scoping general requirements, identifying key enabling technologies and potential applications.
-
-Topics to be discussed will include relevant software engineering methods and off-the-shelf tools, lessons learned from previous similar efforts (e.g. OpenWorm, the Blue Brain Project, TensorFlow, OpenAI Gym), biology-to-ALife best practices, physics engines, exporting designs to physical hardware (sim2real) and biological artifacts (sim2life), volunteer coding organization, timelining, and other related efforts.
-
-Anyone is welcome to sit in and observe, or actively participate in the brainstorming and (eventually) software development activities.
-
-### **Where?** 
-The [Virtual Artificial Life (ALife) Conference](http://2020.alife.org). Zoom link will be provided closer to the event.
-
-### **When?**
-July 13, 2020
-
-Two introductory 15-minute talks.
-
-One hour of brainstorming.
-
-One hour of next-step planning.
-
-### **Who**?
-
-#### Organizers: 
-
-1. [Josh Bongard](https://www.meclab.org/), University of Vermont
-
-1. [Melanie Moses](https://moseslab.cs.unm.edu/), University of New Mexico
-            
-1. [Nick Cheney](https://www.ncheney.com/), University of Vermont
-
-#### Participants: 
-
-1. To be determined.
