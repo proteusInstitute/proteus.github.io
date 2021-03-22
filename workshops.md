@@ -15,4 +15,4 @@ adaptive mechanisms from biology to AI and robotics, we will host a series of wo
 
 [The first Proteus workshop](workshop1.md).
 
-The second Proteus workshop.
+[The second Proteus workshop](workshop2.md).
