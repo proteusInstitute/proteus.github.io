@@ -1,3 +1,1 @@
-# [Inspiration](https://en.wikipedia.org/wiki/Proteus)
-
 [Proteus](https://en.wikipedia.org/wiki/Proteus) is an ever-changing diety from Greek mythology. Unlike Proteus, current machines and algorithms rarely change their form. Imagine machines that can constantly edit their structure to tackle new challenges. We hope to realize such "protean" machines by incorporating into them shape-changing mechanisms from living systems.
