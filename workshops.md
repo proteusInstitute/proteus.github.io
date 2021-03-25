@@ -1,5 +1,3 @@
-# Workshops
-
 Typically, investigators write code or build robots from scratch
 whenever starting a new AI or robotics project.
 This leads to specialized systems
