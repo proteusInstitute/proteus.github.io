@@ -1,18 +1,17 @@
-<table style="width:100%">
+<table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>Month</th>
+    <th>Savings</th>
+    <th>Savings for holiday!</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>January</td>
+    <td>$100</td>
+    <td rowspan="2">$50</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>February</td>
+    <td>$80</td>
   </tr>
 </table>
 
