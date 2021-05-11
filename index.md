@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td rowspan="2"><img src="img/Josh.png"></td>
+    <td rowspan="2"><img src="img/Josh.png" style=""width:500px"></td>
     <td><a href="https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao">Lab</a></td>
   </tr>
   <tr>
