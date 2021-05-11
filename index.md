@@ -1,7 +1,5 @@
 <table>
   <tr>
-  </tr>
-  <tr>
     <td rowspan="12"><img src="img/Josh.png" width="100"></td>
     <td><a href="bio.md">Bio</a></td>
   </tr>
