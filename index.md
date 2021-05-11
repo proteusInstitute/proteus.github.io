@@ -1,11 +1,11 @@
 <table>
   <tr>
-    <td rowspan="2"><img src="img/Josh.png" width="100"></td>
-    <td><a href="https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao">Lab</a></td>
+    <td rowspan="4"><img src="img/Josh.png" width="100"></td>
+    <td><a href="https://meclab.org">Lab</a></td>
   </tr>
-  <tr>
-    <td>list item 2</td>
-  </tr>
+  <tr><td><a href="https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao">Publications</a></td></tr>
+  <tr><td><a href="https://www.youtube.com/results?search_query=josh+bongard">Videos</a></td></tr>
+  <tr><td><a href="https://www.amazon.com/o/ASIN/0262162393/ref=s9_asin_title/103-1396384-1927027">Book</a></td></tr>
 </table>
 
 [Lab](https://meclab.org)
