@@ -1,27 +1,10 @@
 <table>
   <tr>
     <td rowspan="2">image</td>
-    <td>list item 1</td>
+    <td>[Lab](https://meclab.org)</td>
   </tr>
   <tr>
     <td>list item 2</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th>Month</th>
-    <th>Savings</th>
-    <th>Savings for holiday!</th>
-  </tr>
-  <tr>
-    <td>January</td>
-    <td>$100</td>
-    <td rowspan="2">$50</td>
-  </tr>
-  <tr>
-    <td>February</td>
-    <td>$80</td>
   </tr>
 </table>
 
