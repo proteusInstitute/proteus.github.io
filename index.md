@@ -1,8 +1,3 @@
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
 [Lab](https://meclab.org)
 
 [Publications](https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao)
