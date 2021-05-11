@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td rowspan="7"><img src="img/Josh.png" width="100"></td>
+    <td rowspan="11"><img src="img/Josh.png" width="100"></td>
     <td><a href="https://meclab.org">Lab</a></td>
   </tr>
   <tr><td><a href="https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao">Publications</a></td></tr>
@@ -9,6 +9,10 @@
   <tr><td><a href="https://www.edge.org/memberbio/joshua_bongard">Edge responses</a></td></tr>
   <tr><td><a href="https://twitter.com/DoctorJosh">Tweets</a></td></tr>
   <tr><td><a href="https://docs.google.com/document/d/1-Jx9owNRMs1IbH1sXvOCXTqUIxyaJkOtlWzZfFVMZzQ/edit?usp=sharing">Schedule</a> (including office hours)</td></tr>
+  <tr><td><a href="https://jbongard.github.io/docs/CV.pdf">CV</a></td></tr>
+  <tr><td><a href="https://www.uvm.edu/cems/cs/profiles/josh_bongard">Contact</a></td></tr>
+  <tr><td><a href="https://cdorgs.github.io/">Xenobots</a></td></tr>
+  <tr><td><a href="https://jbongard.github.io/img/2010_PECASE_HiRes.png">Obama</a></td></tr>
 </table>
 
 [Lab](https://meclab.org)
