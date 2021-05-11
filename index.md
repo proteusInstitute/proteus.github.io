@@ -1,5 +1,15 @@
 <table>
   <tr>
+    <td rowspan="2">image</td>
+    <td>list item 1</td>
+  </tr>
+  <tr>
+    <td>list item 2</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <th>Month</th>
     <th>Savings</th>
     <th>Savings for holiday!</th>
