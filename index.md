@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td rowspan="4"><img src="img/Josh.png" width="100"></td>
+    <td rowspan="7"><img src="img/Josh.png" width="100"></td>
     <td><a href="https://meclab.org">Lab</a></td>
   </tr>
   <tr><td><a href="https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao">Publications</a></td></tr>
