@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td rowspan="2">image</td>
-    <td>[Lab](https://meclab.org)</td>
+    <td><a href="https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao">Lab</a></td>
   </tr>
   <tr>
     <td>list item 2</td>
