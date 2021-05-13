@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td alight="right"><a href="https://meclab.org">Lab</a></td>
+    <td align="right"><a href="https://meclab.org">Lab</a></td>
     <td rowspan="6"><img src="img/Josh.png" width="240"></td>
     <td><a href="bio.md">Bio</a></td>
   </tr>
