@@ -1,4 +1,4 @@
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td width="300" align="right"><a href="https://meclab.org">Lab</a></td>
     <td rowspan="6"><img src="img/Josh.png" width="240"></td>
@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td align="right"><a href="https://twitter.com/DoctorJosh">Tweets</a></td>
-    <td><a href="https://docs.google.com/document/d/1-Jx9owNRMs1IbH1sXvOCXTqUIxyaJkOtlWzZfFVMZzQ/edit?usp=sharing">Schedule</a> (including office hours)</td>
+    <td><a href="https://docs.google.com/document/d/1-Jx9owNRMs1IbH1sXvOCXTqUIxyaJkOtlWzZfFVMZzQ/edit?usp=sharing">Schedule</a> (office hours)</td>
   </tr>
   <tr>
     <td align="right"><a href="bio.md">Bio</a></td>
