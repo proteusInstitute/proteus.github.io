@@ -1,8 +1,8 @@
 <table align="center">
   <tr>
-    <td width="250" align="right"><a href="https://meclab.org">Lab</a></td>
+    <td width="300" align="right"><a href="https://meclab.org">Lab</a></td>
     <td rowspan="6"><img src="img/Josh.png" width="240"></td>
-    <td width="250"><a href="bio.md">Bio</a></td>
+    <td width="300"><a href="bio.md">Bio</a></td>
   </tr>
   <tr>
     <td align="right"><a href="https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao">Publications</a></td>
