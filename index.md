@@ -1,9 +1,10 @@
 <table>
   <tr>
-    <td rowspan="12"><img src="img/Josh.png" width="240"></td>
+    <td><a href="https://meclab.org">Lab</a></td>
+    <td rowspan="6"><img src="img/Josh.png" width="240"></td>
     <td><a href="bio.md">Bio</a></td>
   </tr>
-  <tr><td><a href="https://meclab.org">Lab</a></td></tr>
+  <tr></tr>
   <tr><td><a href="https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao">Publications</a></td></tr>
   <tr><td><a href="https://www.youtube.com/results?search_query=josh+bongard">Videos</a></td></tr>
   <tr><td><a href="https://www.amazon.com/o/ASIN/0262162393/ref=s9_asin_title/103-1396384-1927027">Book</a></td></tr>
