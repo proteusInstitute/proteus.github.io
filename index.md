@@ -1,4 +1,4 @@
-<table>
+<table align="center">
   <tr>
     <td align="right"><a href="https://meclab.org">Lab</a></td>
     <td rowspan="6"><img src="img/Josh.png" width="240"></td>
