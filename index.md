@@ -1,5 +1,5 @@
-<table align="center" cellspacing="0" cellpadding="0" border="0">
-  <tr style="border: none;">
+<table align="center" border="0">
+  <tr>
     <td width="300" align="right"><a href="https://meclab.org">Lab</a></td>
     <td rowspan="6"><img src="img/Josh.png" width="240"></td>
     <td  width="300"><a href="https://jbongard.github.io/docs/CV.pdf">CV</a></td>
