@@ -1,6 +1,12 @@
-Thinkers, builders, and artists throughout history have looked to nature for inspiration. Most recently, the founders of what has become the Artificial Intelligence revolution drew inspiration from one particular biological mechanism: how the connections between neurons change in response to experience. But, this particular mechanism is but one of millions of "hacks" that nature has evolved to enable organisms to grapple intelligently with their environment. What new kinds of technologies may be possible if we systemically unlocked these other secrets, and built them into new kinds of machines and algorithms?
+Thinkers, builders, and artists throughout history have looked to nature for inspiration. Most recently, the founders of Artificial Intelligence drew inspiration from one particular biological mechanism: how neurons change in response to experience. This particular mechanism is but one of millions of "hacks" that nature has evolved to enable organisms to grapple intelligently with their environment. What new kinds of technologies might be possible if we systemically unlocked these other secrets, and built them into new kinds of machines and algorithms?
 
-That is the goal of The Proteus Institute. 
+That is the goal of The Proteus Institute. The Institute is dedicated to considering all the ways in which natural systems change and adapt, and building as many of those mechanisms into machines and algorithms that similarly change and adapt constantly to meet diverse humans wants and needs. In Greek mythology, Proteus was the god of constant change, giving us the word "protean": tending or able to change frequently or easily.
+
+The Institute is designed as an open community, from which anyone can seek knowledge, and to which anyone can contribute ideas. Contributions can be made using mathematics, code, images, video, or natural language. The AI living at the heart of the Institute will distil out the biological processes represented in those contributions, and build them into an ever steady and ever increasing outward flow of protean machines and algorithms. As more people contribute more biological mechanisms to the Institute, the AI becomes more adept at putting those mechanisms together in new combinations, and embodying them in ever more useful machines and algorithms.
+
+Consider some examples. In animals, bones stiffen at exactly those places where we place the most weight on them. Imagine building materials that stiffen when people walk over them but soften when earthquakes shake them. We have recently learned that biological tissues can be rearranged into new shapes, without harming the donating organism. Perhaps we could create biodegradable robots that clean microplastics from our oceans or cancer cells from our arteries.
+
+Humans turned wolves into dogs, birds into airplanes, and brains into AI. Who knows where Mother Nature may lead us next?
 
 # Technical Summary
 
