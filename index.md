@@ -1,4 +1,4 @@
-Throughout history, thinkers and artists -- and, more recently, scientists and engineers -- have looked to nature for inspiration.
+Thinkers, builders, and artists throughout history have looked to nature for inspiration. Most recently, the founders of what has become the Artificial Intelligence revolution drew inspiration from one particular biological mechanism: how the connections between neurons change in response to experience. But this particular mechanism is but one of millions of "hacks" that nature has evolved to enable organisms to adapt 
 
 # Technical Summary
 
