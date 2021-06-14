@@ -12,7 +12,8 @@ A one-day meeting to determine participation in the NAIRI Institute proposal (to
 
 July 20, 2021
 
-Zoom link for the morning session 
+Zoom link for the open afternoon session
+
 ### **Who**?
 
 #### Organizers: 
@@ -22,3 +23,5 @@ Zoom link for the morning session
 1. [Melanie Moses](https://moseslab.cs.unm.edu/), University of New Mexico
             
 1. [Nick Cheney](https://www.ncheney.com/), University of Vermont
+
+1. [Michael Levin](https://ase.tufts.edu/biology/labs/levin/), Tufts University
