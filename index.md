@@ -1,4 +1,6 @@
-Thinkers, builders, and artists throughout history have looked to nature for inspiration. Most recently, the founders of what has become the Artificial Intelligence revolution drew inspiration from one particular biological mechanism: how the connections between neurons change in response to experience. But this particular mechanism is but one of millions of "hacks" that nature has evolved to enable organisms to adapt 
+Thinkers, builders, and artists throughout history have looked to nature for inspiration. Most recently, the founders of what has become the Artificial Intelligence revolution drew inspiration from one particular biological mechanism: how the connections between neurons change in response to experience. But, this particular mechanism is but one of millions of "hacks" that nature has evolved to enable organisms to grapple intelligently with their environment. What new kinds of technologies may be possible if we systemically unlocked these other secrets, and built them into new kinds of machines and algorithms?
+
+That is the goal of The Proteus Institute. 
 
 # Technical Summary
 
