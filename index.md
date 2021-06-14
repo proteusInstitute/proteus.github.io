@@ -1,3 +1,4 @@
+Throughout history, thinkers and artists -- and, more recently, scientists and engineers -- have looked to nature for inspiration.
 
 # Technical Summary
 
