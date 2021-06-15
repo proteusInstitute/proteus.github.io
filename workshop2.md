@@ -1,22 +1,16 @@
 ## **The Second Proteus Workshop**
 
-### **What?**
-
 A one-day meeting to determine participation in the NAIRI Institute proposal (to be submitted December 2021).
-
-### **Where?** 
 
 [Schedule](https://docs.google.com/spreadsheets/d/1VbLE8HFshhSLdU6kQ0aLJ0PaxhAZZlDmSNvWv1gp5xg/edit?usp=sharing)
 
-### **When?**
-
 July 20, 2021
 
-Zoom link for the open afternoon session
+Zoom link for the private morning session: emailed.
 
-### **Who**?
+Zoom link for the open afternoon session: watch this space.
 
-#### Organizers: 
+### Organizers: 
 
 1. [Josh Bongard](https://www.meclab.org/), University of Vermont
 
