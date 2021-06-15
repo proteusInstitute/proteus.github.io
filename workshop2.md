@@ -4,7 +4,7 @@ A one-day meeting to determine participation in the NAIRI Institute proposal (to
 
 [Schedule](https://docs.google.com/spreadsheets/d/1VbLE8HFshhSLdU6kQ0aLJ0PaxhAZZlDmSNvWv1gp5xg/edit?usp=sharing)
 
-July 20, 2021
+**Tues July 20, 2021**
 
 Zoom link for the private morning session: emailed.
 
