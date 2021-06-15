@@ -1,5 +1,7 @@
 Thinkers, builders, and artists throughout history have looked to nature for inspiration. Most recently, the founders of Artificial Intelligence drew inspiration from one particular biological mechanism: how neurons change in response to experience. This particular mechanism is but one of millions of "hacks" that nature has evolved to enable organisms to grapple intelligently with their environment. What new kinds of technologies might be possible if we systemically unlocked these other secrets, and built them into new kinds of machines and algorithms?
 
+<img src="https://proteusInstitute.github.io/img/Proteus.png" alt="drawing" align="right">
+
 That is the goal of The Proteus Institute. The Institute is dedicated to considering all the ways in which natural systems change and adapt, and building as many of those mechanisms into machines and algorithms so they continuously adapt to meet diverse and ever changing human wants and needs. In Greek mythology, Proteus was the god of constant change, giving us the word "protean": tending or able to change frequently or easily.
 
 The Institute is designed as an open community, from which anyone can seek knowledge, and to which anyone can contribute ideas. Contributions can be made using mathematics, code, images, video, or natural language. The AI living at the heart of the Institute will distil out the biological processes represented in those contributions, and build them into an ever steady and ever increasing outward flow of protean machines and algorithms. As more people contribute more biological mechanisms to the Institute, the AI becomes more adept at putting those mechanisms together in new combinations, and embodying them in ever more useful machines and algorithms.
@@ -14,6 +16,6 @@ We are one of several [NSF NAIRI](https://www.nsf.gov/news/special_reports/annou
 
 Living systems continue to outstrip the most adaptive state-of-the-art AI and robotics. One reason for this is that, without exception, organisms and species constantly restructure themselves at all organizational levels, from the microsecond- to millennial time scales; most machines do not. Almost all AI and robots incorporate change at just one time scale -- that of synaptic plasticity -- and in one modality: neural networks. We thus propose to study embodied plasticity: how multi-level change supports intelligence in protean systems (cells, organs, organisms, and ecologies), and how best to channel those discoveries into protean machines (robots and artificial biological constructs) and algorithms (machine learning methods). 
 
-<p style="text-align: center;">
-<img src="https://proteusInstitute.github.io/img/Proteus.png" alt="drawing">
+<p style="text-align: right;">
+<img src="https://proteusInstitute.github.io/img/Proteus.png" alt="drawing" align="right">
 </p>
