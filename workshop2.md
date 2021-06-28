@@ -8,7 +8,7 @@ A one-day meeting to determine participation in the NAIRI Institute proposal (to
 
 Zoom link for the private morning session: emailed.
 
-Zoom link for the open afternoon session: watch this space.
+[Zoom link](https://docs.google.com/spreadsheets/d/1VbLE8HFshhSLdU6kQ0aLJ0PaxhAZZlDmSNvWv1gp5xg/edit#gid=0&range=F22) for the open afternoon session.
 
 ### Organizers: 
 
