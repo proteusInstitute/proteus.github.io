@@ -1,7 +1,7 @@
 # Most up to date list:
 
 1. [Google Scholar](https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao).
-2. 
+
 # Books
 
 1. [HTML] Pfeifer R. and Bongard J. (2006) How the Body Shapes the Way We Think: A New View of Intelligence, MIT Press, November. 
