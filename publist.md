@@ -1,26 +1,14 @@
 # Books
 
-[HTML] 
-
-Pfeifer R. and Bongard J. (2006) How the Body Shapes the Way We Think: A New View of Intelligence, MIT Press, November. 
+1. [HTML] Pfeifer R. and Bongard J. (2006) How the Body Shapes the Way We Think: A New View of Intelligence, MIT Press, November. 
 
 # Journal articles
 
-[HTML]
+1. [HTML] D Blackiston, E Lederer, S Kriegman, S Garnier, J Bongard, M Levin (2021). A cellular platform for the development of synthetic living machines, Science Robotics, vol. 6 no. 52, pp. eabf1571.
 
-D Blackiston, E Lederer, S Kriegman, S Garnier, J Bongard, M Levin (2021). A cellular platform for the development of synthetic living machines, Science Robotics, vol. 6 no. 52, pp. eabf1571.
+1. [HTML] JC Bongard & M Levin (2021). Living things are not (20th century) machines. Frontiers in Ecology and Evolution. https://doi.org/10.3389/fevo.2021.650726
 
-​
-
-[HTML]
-
-JC Bongard & M Levin (2021). Living things are not (20th century) machines. Frontiers in Ecology and Evolution. https://doi.org/10.3389/fevo.2021.650726
-
-​
-
-[HTML]
-
-DS Shah, JP Powers, LG Tilton, S Kriegman, J Bongard & R Kramer-Bottiglio (2020). A soft robot that adapts to environments through shape change. Nature Machine Intelligence, https://doi.org/10.1038/s42256-020-00263-1.
+1. [HTML] DS Shah, JP Powers, LG Tilton, S Kriegman, J Bongard & R Kramer-Bottiglio (2020). A soft robot that adapts to environments through shape change. Nature Machine Intelligence, https://doi.org/10.1038/s42256-020-00263-1.
 
 ​
 
