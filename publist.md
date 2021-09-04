@@ -14,9 +14,9 @@
 
 1. [HTML] DS Shah, JP Powers, LG Tilton, S Kriegman, J Bongard & R Kramer-Bottiglio (2020). A soft robot that adapts to environments through shape change. Nature Machine Intelligence, https://doi.org/10.1038/s42256-020-00263-1.
 
-1. [[PDF](https://jbongard.github.io/papers/2020_AdvMat_Shah.pdf)] D Shah, B Yang, S Kriegman, M Levin, J Bongard, R Kramer-Bottiglio (2020). Shape changing robots: bioinspiration, simulation, and physical realization. Advanced Materials. e202002882.
+1. [[PDF](https://www.dropbox.com/s/1i772tblht1nlrw/2020_AdvMat_Shah.pdf?dl=0)] D Shah, B Yang, S Kriegman, M Levin, J Bongard, R Kramer-Bottiglio (2020). Shape changing robots: bioinspiration, simulation, and physical realization. Advanced Materials. e202002882.
 
-1. [HTML][[PDF](https://jbongard.github.io/papers/2020_ALife_Veenstra.pdf)] F Veenstra, P González de Prado Salas, K Stoy, J Bongard & S Risi (2020). Death and progress: How evolvability is influenced by intrinsic mortality. ALife, 26(1): 90-111.
+1. [HTML][[PDF](https://www.dropbox.com/s/1i772tblht1nlrw/2020_AdvMat_Shah.pdf?dl=0)] F Veenstra, P González de Prado Salas, K Stoy, J Bongard & S Risi (2020). Death and progress: How evolvability is influenced by intrinsic mortality. ALife, 26(1): 90-111.
 
 1. [HTML][[PDF](https://jbongard.github.io/papers/2020_PNAS_Kriegman.pdf)] S Kriegman, D Blackiston, M Levin, J Bongard (2020). A scalable pipeline for designing reconfigurable organisms. PNAS, 117(4): 1853-1859.
 
