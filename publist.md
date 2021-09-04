@@ -72,7 +72,7 @@
 
 1. [HTML] [[PDF](https://www.dropbox.com/s/qsdfsu9zostc603/2010_ALife_Bongard.pdf?dl=0)] Bongard J. C. (2010). The utility of evolving simulated robot morphology increases with task complexity for object manipulation. Artificial Life, 16(3): 201-223. [Video1] [Video2] [Video3]
 
-1. [HTML(https://thejns.org/view/journals/j-neurosurg/113/3/article-p585.xml)]  Rughani, A. I., Dumont, T. M., Lu, Z., Bongard, J., Horgan, M. A., Penar, P. L., Tranmer, B. I. (2009) Use of an artificial neural network to predict head injury outcome. Journal of Neurosurgery, DOI: 10.3171/2009.11JNS09857.
+1. [[HTML](https://thejns.org/view/journals/j-neurosurg/113/3/article-p585.xml)]  Rughani, A. I., Dumont, T. M., Lu, Z., Bongard, J., Horgan, M. A., Penar, P. L., Tranmer, B. I. (2009) Use of an artificial neural network to predict head injury outcome. Journal of Neurosurgery, DOI: 10.3171/2009.11JNS09857.
 
 1. [HTML] [[PDF](https://jbongard.github.io/papers/2009_TEC_Bongard.pdf)] Bongard J. C. (2009). Accelerating self-modeling in cooperative robot teams. IEEE Transactions on Evolutionary Computation, 13(2): 321-332.
 
