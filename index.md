@@ -5,7 +5,7 @@
     <td  width="300"><a href="https://jbongard.github.io/docs/CV.pdf">CV</a></td>
   </tr>
   <tr>
-    <td align="right"><a href="https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao">Publications</a></td>
+    <td align="right"><a href="publist.md">Publications</a></td>
     <td><a href="https://www.youtube.com/results?search_query=josh+bongard">Videos</a></td>
   </tr>
   <tr>
