@@ -52,27 +52,27 @@
 
 1. [HTML] R Swain and A Berger and J Bongard and P Hines. (2015). Participation and contribution in crowdsourced surveys. PLoS ONE, DOI: 10.1371/journal.pone.0120521
 
-1. [HTML] [[PDF](https://jbongard.github.io/papers/2014_ProcIEEE_Bongard.pdf)] Bongard, J.C., Lipson, H. (2014). Evolved machines shed light on robustness and resilience. Proceedings of the IEEE, 102(5): 899-914.
+1. [HTML] [[PDF](https://www.dropbox.com/s/d5aeuogzipujg3z/2014_IEEE_Bongard.pdf?dl=0)] Bongard, J.C., Lipson, H. (2014). Evolved machines shed light on robustness and resilience. Proceedings of the IEEE, 102(5): 899-914.
 
-1. [HTML] [[PDF](https://jbongard.github.io/papers/2014_TKDE_Lu.pdf)] Lu, Z., Wu, X and Bongard, J. C. (2014). Active learning through adaptive heterogeneous ensembling. IEEE Transactions on Knowledge and Data Engineering, DOI: 10.1109/TKDE.2014.2304474
+1. [HTML] [[PDF](https://www.dropbox.com/s/soo7f4q9d8h7tj1/2014_TKDE_Lu.pdf?dl=0)] Lu, Z., Wu, X and Bongard, J. C. (2014). Active learning through adaptive heterogeneous ensembling. IEEE Transactions on Knowledge and Data Engineering, DOI: 10.1109/TKDE.2014.2304474
 
-1. [HTML] [[PDF](https://jbongard.github.io/papers/2014_PONE_Bevelander.pdf)] Bevelander, K. E., Kaipainen, K., Swain, R., Dohle, S., Bongard, J. C., Hines, P. D. H., Wansink, B. (2014). Crowdsourcing novel childhood predictors of adult obesity.  PLoS ONE DOI: 10.1371/journal.pone.0087756.
+1. [HTML] [[PDF](https://www.dropbox.com/s/p3axhuj5lv0iutr/2014_PONE_Bevelander.pdf?dl=0)] Bevelander, K. E., Kaipainen, K., Swain, R., Dohle, S., Bongard, J. C., Hines, P. D. H., Wansink, B. (2014). Crowdsourcing novel childhood predictors of adult obesity.  PLoS ONE DOI: 10.1371/journal.pone.0087756.
 
-1. [HTML] [[PDF](https://jbongard.github.io/papers/2014_CompBio_Auerbach.pdf)] Auerbach, J. E. and Bongard, J. C. (2014). Environmental influence on the evolution of morphological complexity in machines. PLoS Computational Biology, 10(1): e1003399
+1. [HTML] [[PDF](https://www.dropbox.com/s/3bqae87hzszwn8e/2014_CompBio_Auerbach.pdf?dl=0)] Auerbach, J. E. and Bongard, J. C. (2014). Environmental influence on the evolution of morphological complexity in machines. PLoS Computational Biology, 10(1): e1003399
 
-1. [HTML] [[PDF](https://jbongard.github.io/papers/2013_CACM_Bongard.pdf)] Bongard J. (2013). Evolutionary robotics. Communications of the ACM 56(8): 74-85.
+1. [HTML] [[PDF](https://www.dropbox.com/s/7dr0vaxlu8kjl6i/2013_CACM_Bongard.pdf?dl=0)] Bongard J. (2013). Evolutionary robotics. Communications of the ACM 56(8): 74-85.
 
-1. [HTML] [[PDF](https://jbongard.github.io/papers/2012_IEEESMCA_Bongard.pdf)] Bongard, J. C., Hines, P. D. H., Conger, D., Hurd, P., and Lu, Z. (2012). Crowdsourcing predictors of behavioral outcomes. IEEE Transactions on Systems, Man, and Cybernetics, Part A, DOI: 10.1109/TSMCA.2012.2195168.
+1. [HTML] [[PDF](https://www.dropbox.com/s/rtk6jt5fprxx02e/2012_IEEESMCA_Bongard.pdf?dl=0)] Bongard, J. C., Hines, P. D. H., Conger, D., Hurd, P., and Lu, Z. (2012). Crowdsourcing predictors of behavioral outcomes. IEEE Transactions on Systems, Man, and Cybernetics, Part A, DOI: 10.1109/TSMCA.2012.2195168.
 
-1. [HTML] [[PDF](https://jbongard.github.io/papers/2011_PNAS_Bongard.pdf)] Bongard J. (2011). Morphological change in machines accelerates the evolution of robust behavior. Proceedings of the National Academy of Sciences 108(4): 1234-1239. 
+1. [HTML] [[PDF](https://www.dropbox.com/s/41dzgrxzsi6xwlz/2011_PNAS_Bongard.pdf?dl=0)] Bongard J. (2011). Morphological change in machines accelerates the evolution of robust behavior. Proceedings of the National Academy of Sciences 108(4): 1234-1239. 
 
-1. [HTML] [[PDF](https://jbongard.github.io/papers/2011_TEC_Bongard.pdf)] Bongard J. C. (2011). Innocent until proven guilty: Reducing robot shaping from polynomial to linear time. IEEE Transactions on Evolutionary Computation 15(4): 571-585.
+1. [HTML] [[PDF](https://www.dropbox.com/s/qtfywxk8r6y66nk/2011_TEC_Bongard.pdf?dl=0)] Bongard J. C. (2011). Innocent until proven guilty: Reducing robot shaping from polynomial to linear time. IEEE Transactions on Evolutionary Computation 15(4): 571-585.
 
-1. [HTML] [[PDF](https://jbongard.github.io/papers/2010_NN_Krishnanand.pdf)] Krishnanand, K. N., Bongard, J. C., Meltzoff, A. N. (2010) Self discovery enables robot social cognition: Are you my teacher? Neural Networks, Special Issue on the Science of Learning, 23: 1113-1124.
+1. [HTML] [[PDF](https://www.dropbox.com/s/un129s4ckqnahtm/2010_NN_Krishnanand.pdf?dl=0)] Krishnanand, K. N., Bongard, J. C., Meltzoff, A. N. (2010) Self discovery enables robot social cognition: Are you my teacher? Neural Networks, Special Issue on the Science of Learning, 23: 1113-1124.
 
-1. [HTML] [[PDF](https://jbongard.github.io/papers/2010_ALife_Bongard.pdf)] Bongard J. C. (2010). The utility of evolving simulated robot morphology increases with task complexity for object manipulation. Artificial Life, 16(3): 201-223. [Video1] [Video2] [Video3]
+1. [HTML] [[PDF](https://www.dropbox.com/s/qsdfsu9zostc603/2010_ALife_Bongard.pdf?dl=0)] Bongard J. C. (2010). The utility of evolving simulated robot morphology increases with task complexity for object manipulation. Artificial Life, 16(3): 201-223. [Video1] [Video2] [Video3]
 
-1. [HTML] [[PDF](https://jbongard.github.io/papers/2009_JNeuro_Rughani.pdf)] Rughani, A. I., Dumont, T. M., Lu, Z., Bongard, J., Horgan, M. A., Penar, P. L., Tranmer, B. I. (2009) Use of an artificial neural network to predict head injury outcome. Journal of Neurosurgery, DOI: 10.3171/2009.11JNS09857.
+1. [HTML(https://thejns.org/view/journals/j-neurosurg/113/3/article-p585.xml)]  Rughani, A. I., Dumont, T. M., Lu, Z., Bongard, J., Horgan, M. A., Penar, P. L., Tranmer, B. I. (2009) Use of an artificial neural network to predict head injury outcome. Journal of Neurosurgery, DOI: 10.3171/2009.11JNS09857.
 
 1. [HTML] [[PDF](https://jbongard.github.io/papers/2009_TEC_Bongard.pdf)] Bongard J. C. (2009). Accelerating self-modeling in cooperative robot teams. IEEE Transactions on Evolutionary Computation, 13(2): 321-332.
 
