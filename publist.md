@@ -18,25 +18,25 @@
 
 1. [HTML][[PDF](https://www.dropbox.com/s/1i772tblht1nlrw/2020_AdvMat_Shah.pdf?dl=0)] F Veenstra, P González de Prado Salas, K Stoy, J Bongard & S Risi (2020). Death and progress: How evolvability is influenced by intrinsic mortality. ALife, 26(1): 90-111.
 
-1. [HTML][[PDF](https://jbongard.github.io/papers/2020_PNAS_Kriegman.pdf)] S Kriegman, D Blackiston, M Levin, J Bongard (2020). A scalable pipeline for designing reconfigurable organisms. PNAS, 117(4): 1853-1859.
+1. [HTML][[PDF](https://www.dropbox.com/s/a3cmpo9e856pm0w/2020_PNAS_Kriegman.pdf?dl=0)] S Kriegman, D Blackiston, M Levin, J Bongard (2020). A scalable pipeline for designing reconfigurable organisms. PNAS, 117(4): 1853-1859.
 
-1. [HTML][[PDF](https://jbongard.github.io/papers/2019_Nature_Rahwan.pdf)] I Rahwan, M Cebrian, N Obradovich, J Bongard, J-F Bonnefon, C Breazeal, JW Crandall, NA Christakis, ID Couzin, MO Jackson, NR Jennings, E Kamar, IM Kloumann, H Larochelle, D Lazer, R McElreath, A Mislove, DC Parkes, A Pentland, ME Roberts, A Shariff, JB Tenenbaum & M Wellman (2019). Machine behaviour. Nature, 568: 477486
+1. [HTML][[PDF](https://www.dropbox.com/s/6domy2gnj27zymw/2019_Nature_Rahwan.pdf?dl=0)] I Rahwan, M Cebrian, N Obradovich, J Bongard, J-F Bonnefon, C Breazeal, JW Crandall, NA Christakis, ID Couzin, MO Jackson, NR Jennings, E Kamar, IM Kloumann, H Larochelle, D Lazer, R McElreath, A Mislove, DC Parkes, A Pentland, ME Roberts, A Shariff, JB Tenenbaum & M Wellman (2019). Machine behaviour. Nature, 568: 477486
 
 1. Rounds, T., Bongard, J., Hines, P., & Harvey, J. (2019). A crowdsourcing approach to understand weight and weight loss in men. Preventive Medicine Reports, 13, 224.
 
-1. [HTML][[PDF](https://jbongard.github.io/papers/2018_NSR_Kriegman.pdf)] S Kriegman, N Cheney, J Bongard (2018). How morphological development can guide evolution. Nature Scientific Reports, 8(1): 13934.
+1. [HTML][[PDF](https://www.dropbox.com/s/kuma9bit48iplnn/2018_NSR_Kriegman.pdf?dl=0)] S Kriegman, N Cheney, J Bongard (2018). How morphological development can guide evolution. Nature Scientific Reports, 8(1): 13934.
 
-1. [HTML][[PDF](https://jbongard.github.io/papers/2018_SoRo_Corucci.pdf)] F Corucci, N Cheney, F Giorgio-Serchi, J Bongard, and C Laschi (2018). Evolving Soft Locomotion in Aquatic and Terrestrial Environments: Effects of Material Properties and Environmental Transitions. Soft Robotics 5.4 (2018): 475-495.
+1. [HTML][[PDF](https://www.dropbox.com/s/mom8va77wgof15f/2018_SoRo_Corucci.pdf?dl=0)] F Corucci, N Cheney, F Giorgio-Serchi, J Bongard, and C Laschi (2018). Evolving Soft Locomotion in Aquatic and Terrestrial Environments: Effects of Material Properties and Environmental Transitions. Soft Robotics 5.4 (2018): 475-495.
  
-1. [HTML][[PDF](https://jbongard.github.io/papers/2018_RoySoc_Cheney.pdf)] N Cheney, J Bongard, V SunSpiral, H Lipson (2018) Scalable co-optimization of morphology and control in embodied machines. Journal of The Royal Society Interface, 15(143): 20170937
+1. [HTML][[PDF](https://www.dropbox.com/s/k6dq9e58k86edlw/2018_RoySoc_Cheney.pdf?dl=0)] N Cheney, J Bongard, V SunSpiral, H Lipson (2018) Scalable co-optimization of morphology and control in embodied machines. Journal of The Royal Society Interface, 15(143): 20170937
 
-1. [HTML][[PDF](https://jbongard.github.io/papers/2018_AdBeh_Bernatskiy.pdf)] A Bernatskiy, J Bongard (2018) Evolving morphology automatically reformulates the problem of designing modular control. Adaptive Behavior 26(2): 47-64
+1. [HTML][[PDF](https://www.dropbox.com/s/4df4f5j4n6gkyvn/2018_AdBeh_Bernatskiy.pdf?dl=0)] A Bernatskiy, J Bongard (2018) Evolving morphology automatically reformulates the problem of designing modular control. Adaptive Behavior 26(2): 47-64
 
-1. [HTML][[PDF](https://jbongard.github.io/papers/2017_IEEE_Wagy.pdf)] MD Wagy, JC Bongard, JP Bagrow, PDH Hines (2017). Crowdsourcing predictors of residential electric energy usage. IEEE Systems Journal, PP(99):1-10.
+1. [HTML][[PDF](https://www.dropbox.com/s/74qndks0axn2k6k/2017_IEEE_Wagy.pdf?dl=0)] MD Wagy, JC Bongard, JP Bagrow, PDH Hines (2017). Crowdsourcing predictors of residential electric energy usage. IEEE Systems Journal, PP(99):1-10.
 
-1. [HTML][[PDF](https://jbongard.github.io/papers/2017_ALife_Buckingham.pdf)] D Buckingham & JC Bongard (2017). Physical Scaffolding Accelerates the Evolution of Robot Behavior. Artificial Life, 23(3):351-373.
+1. [HTML][[PDF](https://www.dropbox.com/s/swxm1isfivy29lg/2017_ALife_Buckingham.pdf?dl=0)] D Buckingham & JC Bongard (2017). Physical Scaffolding Accelerates the Evolution of Robot Behavior. Artificial Life, 23(3):351-373.
 
-1. [HTML][[PDF](https://jbongard.github.io/papers/2017_FrontRobAI_Corucci.pdf)] F Corucci, N Cheney, S Kriegman, J Bongard, C Laschi (2017). Evolutionary Developmental Soft Robotics As a Framework to Study Intelligence and Adaptive Behavior in Animals and Plants. Frontiers in Robotics and AI.
+1. [HTML][[PDF](https://www.dropbox.com/s/8uho49j61yfydcg/2017_FrontRobAI_Corucci.pdf?dl=0)] F Corucci, N Cheney, S Kriegman, J Bongard, C Laschi (2017). Evolutionary Developmental Soft Robotics As a Framework to Study Intelligence and Adaptive Behavior in Animals and Plants. Frontiers in Robotics and AI.
 
 1. [HTML][[PDF](https://jbongard.github.io/papers/2016_FrontRobAI_Livingston.pdf)] N Livingston, A Bernatskiy, K Livingston, ML Smith, J Schwarz, JC Bongard, D Wallach & JH Long Jr (2016). Modularity and sparsity: evolution of neural net controllers in physically embodied robots. Frontiers in Robotics and AI.
 
