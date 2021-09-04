@@ -38,17 +38,17 @@
 
 1. [HTML][[PDF](https://www.dropbox.com/s/8uho49j61yfydcg/2017_FrontRobAI_Corucci.pdf?dl=0)] F Corucci, N Cheney, S Kriegman, J Bongard, C Laschi (2017). Evolutionary Developmental Soft Robotics As a Framework to Study Intelligence and Adaptive Behavior in Animals and Plants. Frontiers in Robotics and AI.
 
-1. [HTML][[PDF](https://jbongard.github.io/papers/2016_FrontRobAI_Livingston.pdf)] N Livingston, A Bernatskiy, K Livingston, ML Smith, J Schwarz, JC Bongard, D Wallach & JH Long Jr (2016). Modularity and sparsity: evolution of neural net controllers in physically embodied robots. Frontiers in Robotics and AI.
+1. [HTML][[PDF](https://www.dropbox.com/s/rf3vkkoajc5ymty/2017_FrontRobAI_Livingston.pdf?dl=0)] N Livingston, A Bernatskiy, K Livingston, ML Smith, J Schwarz, JC Bongard, D Wallach & JH Long Jr (2016). Modularity and sparsity: evolution of neural net controllers in physically embodied robots. Frontiers in Robotics and AI.
 
 1. [HTML][[PDF](https://jbongard.github.io/papers/2016_ALife_Taylor.pdf)] T Taylor, JE Auerbach, J Bongard, J Clune, S Hickinbotham, C Ofria, M Oka, S Risi, KO Stanley, J Yosinski (2016). WebAL comes of age: A review of the first 21 years of artificial life on the web. Artificial Life, 22(3) 364-407.
 
-1.  [HTML] [[PDF](https://jbongard.github.io/papers/2016_FrontRobAI_Cappelle.pdf)] CK Cappelle, A Bernatskiy, K Livingston, N Livingston, J Bongard (2016). Morphological modularity can enable the evolution of robot behavior to scale linearly with the number of environmental features. Frontiers in Robotics and AI, http://dx.doi.org/10.3389/ frobt.2016.00059.
+1.  [HTML] [[PDF](https://www.dropbox.com/s/lqcn0mfv42umqwy/2017_FrontRobAI_Cappelle.pdf?dl=0)] CK Cappelle, A Bernatskiy, K Livingston, N Livingston, J Bongard (2016). Morphological modularity can enable the evolution of robot behavior to scale linearly with the number of environmental features. Frontiers in Robotics and AI.
 
-1.  [HTML] [[PDF](https://jbongard.github.io/papers/2015_COBS_Bongard.pdf)]  J Bongard (2015). Using robots to investigate the evolution of adaptive behavior. Current Opinion in Behavioral Sciences, 6: 168-173. 
+1.  [HTML] [[PDF](https://www.dropbox.com/s/ses92n1a9g2gcpb/2015_COBS_Bongard.pdf?dl=0)]  J Bongard (2015). Using robots to investigate the evolution of adaptive behavior. Current Opinion in Behavioral Sciences, 6: 168-173. 
 
 1. [HTML] M Wagy & J Bongard. (2015). Combining computational and social effort for collaborative problem solving. PLoS ONE, DOI: 10.1371/journal.pone.0142524. 
 
-1. [HTML] [[PDF](https://jbongard.github.io/papers/2015_JHydro_Buckingham.pdf)] D Buckingham, C Skalka, and J Bongard (2015). Inductive machine learning for improved estimation of catchment-scale snow water equivalent. Journal of Hydrology, 524: 311-325. 
+1. [HTML] [[PDF](https://www.dropbox.com/s/rtawekjtajqb5fh/2015_JHydro_Buckingham.pdf?dl=0)] D Buckingham, C Skalka, and J Bongard (2015). Inductive machine learning for improved estimation of catchment-scale snow water equivalent. Journal of Hydrology, 524: 311-325. 
 
 1. [HTML] R Swain and A Berger and J Bongard and P Hines. (2015). Participation and contribution in crowdsourced surveys. PLoS ONE, DOI: 10.1371/journal.pone.0120521
 
