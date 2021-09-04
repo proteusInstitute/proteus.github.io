@@ -313,10 +313,7 @@ Bongard J. and Lipson H. (2005) Nonlinear system identification using coevolutio
 Pfeifer, R., F. Iida and J. Bongard (2005) New Robotics: Design Principles for Intelligent Systems, Artificial Life, Special Issue on New Robotics, Evolution and Embodied Cognition, 11(1-2): 99-120.
 
 
-
-
-
-
+# Book Chapters
 
 [PDF]
 
@@ -358,11 +355,7 @@ Bongard, J. C. (2009) A Functional Crossover Operator for Genetic Programming. I
 
 Bongard, J. C. and R. Pfeifer (2003) Evolving Complete Agents Using Artificial Ontogeny, in Hara, F. and R. Pfeifer, (eds.), Morpho-functional Machines: The New Species (Designing Embodied Intelligence) Springer-Verlag, pp. 237-258.
 
-
-
-
-
-​
+# Conference Publications
 
 [PDF] D Matthews, J Bongard (2020). Crowd grounding: finding semantic and behavioral alignment through human robot interaction. Proceedings of the Artificial Life Conference (ALife). 
 
