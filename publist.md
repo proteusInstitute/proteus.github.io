@@ -10,58 +10,19 @@
 
 1. [HTML] DS Shah, JP Powers, LG Tilton, S Kriegman, J Bongard & R Kramer-Bottiglio (2020). A soft robot that adapts to environments through shape change. Nature Machine Intelligence, https://doi.org/10.1038/s42256-020-00263-1.
 
-​
+1. [PDF] D Shah, B Yang, S Kriegman, M Levin, J Bongard, R Kramer-Bottiglio (2020). Shape changing robots: bioinspiration, simulation, and physical realization. Advanced Materials. e202002882.
 
-[PDF]
+1. [HTML][PDF] F Veenstra, P González de Prado Salas, K Stoy, J Bongard & S Risi (2020). Death and progress: How evolvability is influenced by intrinsic mortality. ALife, 26(1): 90-111.
 
-D Shah, B Yang, S Kriegman, M Levin, J Bongard, R Kramer-Bottiglio (2020). Shape changing robots: bioinspiration, simulation, and physical realization. Advanced Materials. e202002882.
+1. [HTML][PDF] S Kriegman, D Blackiston, M Levin, J Bongard (2020). A scalable pipeline for designing reconfigurable organisms. PNAS, 117(4): 1853-1859.
 
-​
+1. [HTML][PDF] I Rahwan, M Cebrian, N Obradovich, J Bongard, J-F Bonnefon, C Breazeal, JW Crandall, NA Christakis, ID Couzin, MO Jackson, NR Jennings, E Kamar, IM Kloumann, H Larochelle, D Lazer, R McElreath, A Mislove, DC Parkes, A Pentland, ME Roberts, A Shariff, JB Tenenbaum & M Wellman (2019). Machine behaviour. Nature, 568: 477486
 
-[HTML][PDF]
+1. Rounds, T., Bongard, J., Hines, P., & Harvey, J. (2019). A crowdsourcing approach to understand weight and weight loss in men. Preventive Medicine Reports, 13, 224.
 
-F Veenstra, P González de Prado Salas, K Stoy, J Bongard & S Risi (2020). Death and progress: How evolvability is influenced by intrinsic mortality. ALife, 26(1): 90-111.
+1. [HTML][PDF] S Kriegman, N Cheney, J Bongard (2018). How morphological development can guide evolution. Nature Scientific Reports, 8(1): 13934.
 
-​
-
-[HTML][PDF]
-
-S Kriegman, D Blackiston, M Levin, J Bongard (2020). A scalable pipeline for designing reconfigurable organisms. PNAS, 117(4): 1853-1859.
-
-​
-
-[HTML][PDF]
-
-I Rahwan, M Cebrian, N Obradovich, J Bongard, J-F Bonnefon, C Breazeal, JW Crandall, NA Christakis, ID Couzin, MO Jackson, NR Jennings, E Kamar, IM Kloumann, H Larochelle, D Lazer, R McElreath, A Mislove, DC Parkes, A Pentland, ME Roberts, A Shariff, JB Tenenbaum & M Wellman (2019).
-
-Machine behaviour.
-
-Nature, 568: 477486
-
-​
-
-Rounds, T., Bongard, J., Hines, P., & Harvey, J. (2019).
-
-A crowdsourcing approach to understand weight and weight loss in men. 
-
-Preventive Medicine Reports, 13, 224.
-
-​
-
-[HTML][PDF]
-
-S Kriegman, N Cheney, J Bongard (2018).
-
-How morphological development can guide evolution.
-Nature Scientific Reports, 8(1): 13934.
-
-​
-
-[HTML][PDF]
-
-F Corucci, N Cheney, F Giorgio-Serchi, J Bongard, and C Laschi (2018).
-
-Evolving Soft Locomotion in Aquatic and Terrestrial Environments: Effects of Material Properties and Environmental Transitions.
+1. [HTML][PDF] F Corucci, N Cheney, F Giorgio-Serchi, J Bongard, and C Laschi (2018). Evolving Soft Locomotion in Aquatic and Terrestrial Environments: Effects of Material Properties and Environmental Transitions.
 
 Soft Robotics 5.4 (2018): 475-495.
 
