@@ -40,7 +40,7 @@
 
 1. [HTML][[PDF](https://www.dropbox.com/s/rf3vkkoajc5ymty/2017_FrontRobAI_Livingston.pdf?dl=0)] N Livingston, A Bernatskiy, K Livingston, ML Smith, J Schwarz, JC Bongard, D Wallach & JH Long Jr (2016). Modularity and sparsity: evolution of neural net controllers in physically embodied robots. Frontiers in Robotics and AI.
 
-1. [HTML][[PDF](https://jbongard.github.io/papers/2016_ALife_Taylor.pdf)] T Taylor, JE Auerbach, J Bongard, J Clune, S Hickinbotham, C Ofria, M Oka, S Risi, KO Stanley, J Yosinski (2016). WebAL comes of age: A review of the first 21 years of artificial life on the web. Artificial Life, 22(3) 364-407.
+1. [HTML][[PDF](https://www.dropbox.com/s/2bf367x2ffbfq28/2016_ALife_Taylor.pdf?dl=0)] T Taylor, JE Auerbach, J Bongard, J Clune, S Hickinbotham, C Ofria, M Oka, S Risi, KO Stanley, J Yosinski (2016). WebAL comes of age: A review of the first 21 years of artificial life on the web. Artificial Life, 22(3) 364-407.
 
 1.  [HTML] [[PDF](https://www.dropbox.com/s/lqcn0mfv42umqwy/2017_FrontRobAI_Cappelle.pdf?dl=0)] CK Cappelle, A Bernatskiy, K Livingston, N Livingston, J Bongard (2016). Morphological modularity can enable the evolution of robot behavior to scale linearly with the number of environmental features. Frontiers in Robotics and AI.
 
