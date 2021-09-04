@@ -1,6 +1,6 @@
 # Most up to date list:
 
-1. [Google Scholar](https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao).
+[Google Scholar](https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao).
 
 # Books
 
