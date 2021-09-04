@@ -1,19 +1,10 @@
-
-Full list of publications.
-
-​
-
-​
-
-​
+# Books
 
 [HTML] 
 
 Pfeifer R. and Bongard J. (2006) How the Body Shapes the Way We Think: A New View of Intelligence, MIT Press, November. 
 
-​
-
-​
+# Journal articles
 
 [HTML]
 
@@ -353,7 +344,7 @@ Icke, I., Allgaier, N. A., Danforth, C. M., Whelan, R., Garavan, H., Bongard, J.
 
 [PDF]
 
-Bongard, J. C. (2011) The `What', `How' and the `Why' of Evolutionary Robotics. In Doncieux, S., Bredeche, N., Mouret, J.-B. (eds.), New Horizons in Evolutionary Robotics (Studies in Computational Intelligence), 341: 29-35.
+Bongard, J. C. (2011) The What, How and the Why of Evolutionary Robotics. In Doncieux, S., Bredeche, N., Mouret, J.-B. (eds.), New Horizons in Evolutionary Robotics (Studies in Computational Intelligence), 341: 29-35.
 
 
 
