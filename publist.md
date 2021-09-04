@@ -1,4 +1,6 @@
-Most up to date list: [Google Scholar](https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao).
+# Most up to date list: 
+
+[Google Scholar](https://scholar.google.com/citations?user=Dj-kPasAAAAJ&hl=en&oi=ao).
 
 # Books
 
