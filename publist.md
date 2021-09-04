@@ -823,11 +823,7 @@ Bongard, J. C. (2000) The Legion System: A Novel Approach to Evolving Heterogene
 
 Bongard, J. C. (1999) Coevolutionary Dynamics of a Multi-Population Genetic Programming System, in Floreano, D., J.-D. Nicoud and F. Mondada (eds.), Proceedings of the Fifth European Conference on Artificial Life, pp. 316-321. (Springer-Verlag)
 
-
-
-
-
-
+# Non peer reviewed publications.
 
 [PDF]
 
