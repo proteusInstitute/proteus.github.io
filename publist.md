@@ -74,7 +74,7 @@
 
 1. [[HTML](https://thejns.org/view/journals/j-neurosurg/113/3/article-p585.xml)]  Rughani, A. I., Dumont, T. M., Lu, Z., Bongard, J., Horgan, M. A., Penar, P. L., Tranmer, B. I. (2009) Use of an artificial neural network to predict head injury outcome. Journal of Neurosurgery, DOI: 10.3171/2009.11JNS09857.
 
-1. [HTML] [[PDF](https://jbongard.github.io/papers/2009_TEC_Bongard.pdf)] Bongard J. C. (2009). Accelerating self-modeling in cooperative robot teams. IEEE Transactions on Evolutionary Computation, 13(2): 321-332.
+1. [HTML] [[PDF](https://www.dropbox.com/s/hmn7hw5q4mx2ry6/2009_TEC_Bongard.pdf?dl=0)] Bongard J. C. (2009). Accelerating self-modeling in cooperative robot teams. IEEE Transactions on Evolutionary Computation, 13(2): 321-332.
 
 1. [HTML] [[PDF](https://jbongard.github.io/papers/2007_XXX_XXX.pdf)] Bongard J. and Lipson H.(2007). Automated reverse engineering of nonlinear dynamical systems. Proceedings of the National Academy of Sciences, 104(24): 9943-9948.
 
