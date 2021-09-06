@@ -186,7 +186,7 @@
 
 1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. (2010) A Probabilistic Functional Crossover Operator for Genetic Programming. 2010 Genetic and Evolutionary Computation Conference (GECCO 2010), Portland, OR.
 
-1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C., Hornby, G. S. (2010) Guarding Against Premature Convergence while Accelerating Evolutionary Search. 2010 Genetic and Evolutionary Computation Conference (GECCO 2010), to appear.
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C., Hornby, G. S. (2010) Guarding Against Premature Convergence while Accelerating Evolutionary Search. 2010 Genetic and Evolutionary Computation Conference (GECCO 2010).
 
 1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Lu, Z., Wu, X., Bongard, J. (2010) Adaptive Informative Sampling for Active Learning, The 2010 SIAM Conference on Data Mining (SDM 2010), Columbus, Ohio, USA, 2010
 
