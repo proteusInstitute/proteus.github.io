@@ -90,7 +90,13 @@
 
 # Conference Publications
 
-1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] D Matthews, J Bongard (2020). Crowd grounding: finding semantic and behavioral alignment through human robot interaction. Proceedings of the Artificial Life Conference (ALife). 
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] S Kriegman, AM Nasab, D Blackiston, H Steele, M Levin, R Kramer-Bottiglio, J Bongard (2021). Scale invariant robot behavior with fractals. *Proceedings of the Robotics: Science and Systems Conference*.
+
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] J Powers, R Grindle, L Frati, J Bongard (2021). A good body is all you need: avoiding catastrophic interference via agent architecture search. arXiv preprint arXiv:2108.08398
+
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] B Yang, J Powers, A Parsa, J Bongard, R Kramer-Bottiglio (2021). Shape Matching: Evolving Fiber Constraints on a Pneumatic Bilayer. 2021 IEEE 4th International Conference on Soft Robotics (RoboSoft), 630-635.
+
+3. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] D Matthews, J Bongard (2020). Crowd grounding: finding semantic and behavioral alignment through human robot interaction. Proceedings of the Artificial Life Conference (ALife). 
 
 1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] J Powers, S Pell, J Bongard (2020). A framework for search and application agnostic interactive optimization. Proceedings of the Artificial Life Conference (ALife).
 
