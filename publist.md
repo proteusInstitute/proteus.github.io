@@ -86,23 +86,7 @@
 
 1. [HTML] [[PDF](https://jbongard.github.io/papers/2005_TEC_Bongard.pdf)] Bongard J. and Lipson H. (2005) Nonlinear system identification using coevolution of models and tests, IEEE Transactions on Evolutionary Computation, 9(4): 361-384.
 
-1. [PS] [[PDF](https://jbongard.github.io/papers/2005_ALife_2005.pdf)] Pfeifer, R., F. Iida and J. Bongard (2005) New Robotics: Design Principles for Intelligent Systems, Artificial Life, Special Issue on New Robotics, Evolution and Embodied Cognition, 11(1-2): 99-120.
-
-# Book Chapters
-
-1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] A Cangelosi, J Bongard, MH Fischer, S Nolfi (2015) Embodied intelligence. In Springer Handbook of Computational Intelligence, pp. 697-714.
-
-1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. (2014) Evolving morphological computation. In H Hauser, RM Fuchslin, & R Pfeifer (eds.), Opinions and Outlooks on Morphological Computation ISBN: 978-3-033-04515-6.
-
-1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. (2014) Why Morphology Matters. In PA Vargas, EA Di Paolo, I Harvey & P Husbands(eds.), The Horizons of Evolutionary Robotics, 125-152.
-
-1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Icke, I., Allgaier, N. A., Danforth, C. M., Whelan, R., Garavan, H., Bongard, J. C. (2013) A Deterministic and Symbolic Regression Hybrid Applied to Resting-State fMRI data. In Genetic Programming Theory and Practice IX, Springer.
-
-1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. (2011) The What, How and the Why of Evolutionary Robotics. In Doncieux, S., Bredeche, N., Mouret, J.-B. (eds.), New Horizons in Evolutionary Robotics (Studies in Computational Intelligence), 341: 29-35.
-
-1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. (2009) A Functional Crossover Operator for Genetic Programming. In Riolo R., O'Reilly, U.-M., McConaghy, T. (eds.),Genetic Programming Theory and Practice VII, pp. 195-210, Springer.
-
-1. [PS] [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. and R. Pfeifer (2003) Evolving Complete Agents Using Artificial Ontogeny, in Hara, F. and R. Pfeifer, (eds.), Morpho-functional Machines: The New Species (Designing Embodied Intelligence) Springer-Verlag, pp. 237-258.
+1. [[PDF](https://jbongard.github.io/papers/2005_ALife_2005.pdf)] Pfeifer, R., F. Iida and J. Bongard (2005) New Robotics: Design Principles for Intelligent Systems, Artificial Life, Special Issue on New Robotics, Evolution and Embodied Cognition, 11(1-2): 99-120.
 
 # Conference Publications
 
@@ -246,7 +230,7 @@
 
 1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. and R. Pfeifer (2002) A Method for Isolating Morphological Effects on Evolved Behaviour, in Hallam, B., Floreano, D. et al (eds.), Proceedings of the Seventh International Conference on the Simulation of Adaptive Behaviour (SAB2002), MIT Press, pp. 305-311.
 
-1. [PS] Bongard, J. C. and R. Pfeifer (2002) Relating Neural Network Performance to Morphological Differences in Embodied Agents, inProceedings of the Sixth International Conference on Cognitive and Neural Systems, Boston, USA.
+1. Bongard, J. C. and R. Pfeifer (2002) Relating Neural Network Performance to Morphological Differences in Embodied Agents, inProceedings of the Sixth International Conference on Cognitive and Neural Systems, Boston, USA.
 
 1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. (2002) Evolving Modular Genetic Regulatory Networks, in Proceedings of the IEEE 2002 Congress on Evolutionary Computation (CEC2002), IEEE Press, pp. 1872-1877.
 
@@ -263,6 +247,22 @@
 1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. (2000) The Legion System: A Novel Approach to Evolving Heterogeneity for Collective Problem Solving, in R. Poli, W. Banzhaf et al (eds.), Genetic Programming: Third European Conference, pp. 25-37. (Springer-Verlag) [Presentation available in PDF]
 
 1. Bongard, J. C. (1999) Coevolutionary Dynamics of a Multi-Population Genetic Programming System, in Floreano, D., J.-D. Nicoud and F. Mondada (eds.), Proceedings of the Fifth European Conference on Artificial Life, pp. 316-321. (Springer-Verlag)
+
+# Book Chapters
+
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] A Cangelosi, J Bongard, MH Fischer, S Nolfi (2015) Embodied intelligence. In Springer Handbook of Computational Intelligence, pp. 697-714.
+
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. (2014) Evolving morphological computation. In H Hauser, RM Fuchslin, & R Pfeifer (eds.), Opinions and Outlooks on Morphological Computation ISBN: 978-3-033-04515-6.
+
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. (2014) Why Morphology Matters. In PA Vargas, EA Di Paolo, I Harvey & P Husbands(eds.), The Horizons of Evolutionary Robotics, 125-152.
+
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Icke, I., Allgaier, N. A., Danforth, C. M., Whelan, R., Garavan, H., Bongard, J. C. (2013) A Deterministic and Symbolic Regression Hybrid Applied to Resting-State fMRI data. In Genetic Programming Theory and Practice IX, Springer.
+
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. (2011) The What, How and the Why of Evolutionary Robotics. In Doncieux, S., Bredeche, N., Mouret, J.-B. (eds.), New Horizons in Evolutionary Robotics (Studies in Computational Intelligence), 341: 29-35.
+
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. (2009) A Functional Crossover Operator for Genetic Programming. In Riolo R., O'Reilly, U.-M., McConaghy, T. (eds.),Genetic Programming Theory and Practice VII, pp. 195-210, Springer.
+
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. and R. Pfeifer (2003) Evolving Complete Agents Using Artificial Ontogeny, in Hara, F. and R. Pfeifer, (eds.), Morpho-functional Machines: The New Species (Designing Embodied Intelligence) Springer-Verlag, pp. 237-258.
 
 # Non peer reviewed publications.
 
