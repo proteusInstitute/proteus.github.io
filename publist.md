@@ -70,7 +70,7 @@
 
 1. [HTML] [[PDF](https://www.dropbox.com/s/un129s4ckqnahtm/2010_NN_Krishnanand.pdf?dl=0)] Krishnanand, K. N., Bongard, J. C., Meltzoff, A. N. (2010) Self discovery enables robot social cognition: Are you my teacher? Neural Networks, Special Issue on the Science of Learning, 23: 1113-1124.
 
-1. [HTML] [[PDF](https://www.dropbox.com/s/qsdfsu9zostc603/2010_ALife_Bongard.pdf?dl=0)] Bongard J. C. (2010). The utility of evolving simulated robot morphology increases with task complexity for object manipulation. Artificial Life, 16(3): 201-223. [Video1] [Video2] [Video3]
+1. [HTML] [[PDF](https://www.dropbox.com/s/qsdfsu9zostc603/2010_ALife_Bongard.pdf?dl=0)] Bongard J. C. (2010). The utility of evolving simulated robot morphology increases with task complexity for object manipulation. Artificial Life, 16(3): 201-223.
 
 1. [[HTML](https://thejns.org/view/journals/j-neurosurg/113/3/article-p585.xml)]  Rughani, A. I., Dumont, T. M., Lu, Z., Bongard, J., Horgan, M. A., Penar, P. L., Tranmer, B. I. (2009) Use of an artificial neural network to predict head injury outcome. Journal of Neurosurgery, DOI: 10.3171/2009.11JNS09857.
 
@@ -194,11 +194,11 @@
 
 1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Kaipa, K., Bongard, J. C., Meltzoff A. N. (2009) Combined Structure and Motion Extraction from Visual Data Using Evolutionary Active Learning 2009 Genetic and Evolutionary Computation Conference (GECCO 2009), Montreal Canada.
 
-1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Auerbach, J., Bongard, J. C. (2009) Evolution of Functional Specialization in a Morphologically Homogeneous Robot. 2009 Genetic and Evolutionary Computation Conference (GECCO 2009), Montreal Canada. [Video1] [Video2]
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Auerbach, J., Bongard, J. C. (2009) Evolution of Functional Specialization in a Morphologically Homogeneous Robot. 2009 Genetic and Evolutionary Computation Conference (GECCO 2009), Montreal Canada.
 
-1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Auerbach, J., Bongard, J. C. (2009) How Robot Morphology and Training Order Affect the Learning of Multiple Behaviors. 2009 IEEE Congress on Evolutionary Computation (IEEE CEC 2009), Trondeim, Norway. [Video1] [Video2] [Video3] [Video4] [Video5]
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Auerbach, J., Bongard, J. C. (2009) How Robot Morphology and Training Order Affect the Learning of Multiple Behaviors. 2009 IEEE Congress on Evolutionary Computation (IEEE CEC 2009), Trondeim, Norway.
 
-1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. (2008) Behavior Chaining: Incremental Behavior Integration for Evolutionary Robotics, Artificial Life XI, MIT Press, Cambridge, MA. [Source Code] [Video1] [Video2]
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. (2008) Behavior Chaining: Incremental Behavior Integration for Evolutionary Robotics, Artificial Life XI, MIT Press, Cambridge, MA.
 
 1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. (2007) Synthesizing Physically-Realistic Environmental Models from Robot Exploration, Advances in Artificial Life: 9th European Conference, Springer-Verlag, Berlin, pp. 806-815.
 
