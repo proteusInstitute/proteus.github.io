@@ -8,11 +8,11 @@
 
 # Journal articles
 
-1. [[HTML](https://www.science.org/doi/10.1126/scirobotics.abf1571)][[PDF](https://livingrobotswarms.github.io/img/xenobots2.pdf)] D Blackiston, E Lederer, S Kriegman, S Garnier, J Bongard, M Levin (2021). A cellular platform for the development of synthetic living machines, *Science Robotics*, vol. 6 no. 52, pp. eabf1571.
+1. [[HTML](https://www.science.org/doi/10.1126/scirobotics.abf1571)] D Blackiston, E Lederer, S Kriegman, S Garnier, J Bongard, M Levin (2021). A cellular platform for the development of synthetic living machines, *Science Robotics*, vol. 6 no. 52, pp. eabf1571.
 
-1. [HTML] JC Bongard & M Levin (2021). Living things are not (20th century) machines. *Frontiers in Ecology and Evolution*. https://doi.org/10.3389/fevo.2021.650726
+1. [[HTML](https://www.frontiersin.org/articles/10.3389/fevo.2021.650726/full)] JC Bongard & M Levin (2021). Living things are not (20th century) machines. *Frontiers in Ecology and Evolution*.
 
-1. [HTML] DS Shah, JP Powers, LG Tilton, S Kriegman, J Bongard & R Kramer-Bottiglio (2020). A soft robot that adapts to environments through shape change. *Nature Machine Intelligence*, https://doi.org/10.1038/s42256-020-00263-1.
+1. [[HTML](https://www.nature.com/articles/s42256-020-00263-1)] DS Shah, JP Powers, LG Tilton, S Kriegman, J Bongard & R Kramer-Bottiglio (2020). A soft robot that adapts to environments through shape change. *Nature Machine Intelligence*, https://doi.org/10.1038/s42256-020-00263-1.
 
 1. [[PDF](https://www.dropbox.com/s/1i772tblht1nlrw/2020_AdvMat_Shah.pdf?dl=0)] D Shah, B Yang, S Kriegman, M Levin, J Bongard, R Kramer-Bottiglio (2020). Shape changing robots: bioinspiration, simulation, and physical realization. *Advanced Materials*. e202002882.
 
