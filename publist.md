@@ -212,7 +212,7 @@
 
 1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard J. and Lipson H. (2005) Reinventing the Wheel: Experiments in Evolutionary Geometry, Late Breaking Papers of the 2005 Genetic and Evolutionary Computation Conference, June 2005, Washington DC.
 
-1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard J. and Lipson H. (2005c) `Managed Challenge' Alleviates Disengagement in Co-evolutionary System Identification, Proceedings of the 2005 Genetic and Evolutionary Computation Conference, June 2005, Washington DC, pp. 531-538.
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard J. and Lipson H. (2005) `Managed Challenge' Alleviates Disengagement in Co-evolutionary System Identification, Proceedings of the 2005 Genetic and Evolutionary Computation Conference, June 2005, Washington DC, pp. 531-538.
 
 1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] White P., Zykov V., Bongard J., and Lipson H. (2005) Three Dimensional Stochastic Reconfiguration of Modular Robots, Proceedings of Robotics: Science and Systems, MIT Press, Cambridge, MA, pp. 161-168.
 
