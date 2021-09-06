@@ -90,45 +90,19 @@
 
 # Book Chapters
 
-[[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)]
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] A Cangelosi, J Bongard, MH Fischer, S Nolfi (2015) Embodied intelligence. In Springer Handbook of Computational Intelligence, pp. 697-714.
 
-A Cangelosi, J Bongard, MH Fischer, S Nolfi (2015) Embodied intelligence. In Springer Handbook of Computational Intelligence, pp. 697-714.
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. (2014) Evolving morphological computation. In H Hauser, RM Fuchslin, & R Pfeifer (eds.), Opinions and Outlooks on Morphological Computation ISBN: 978-3-033-04515-6.
 
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. (2014) Why Morphology Matters. In PA Vargas, EA Di Paolo, I Harvey & P Husbands(eds.), The Horizons of Evolutionary Robotics, 125-152.
 
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Icke, I., Allgaier, N. A., Danforth, C. M., Whelan, R., Garavan, H., Bongard, J. C. (2013) A Deterministic and Symbolic Regression Hybrid Applied to Resting-State fMRI data. In Genetic Programming Theory and Practice IX, Springer.
 
-[[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)]
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. (2011) The What, How and the Why of Evolutionary Robotics. In Doncieux, S., Bredeche, N., Mouret, J.-B. (eds.), New Horizons in Evolutionary Robotics (Studies in Computational Intelligence), 341: 29-35.
 
-Bongard, J. C. (2014) Evolving morphological computation. In H Hauser, RM Fuchslin, & R Pfeifer (eds.), Opinions and Outlooks on Morphological Computation ISBN: 978-3-033-04515-6.
+1. [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. (2009) A Functional Crossover Operator for Genetic Programming. In Riolo R., O'Reilly, U.-M., McConaghy, T. (eds.),Genetic Programming Theory and Practice VII, pp. 195-210, Springer.
 
-
-
-[[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)]
-
-Bongard, J. C. (2014) Why Morphology Matters. In PA Vargas, EA Di Paolo, I Harvey & P Husbands(eds.), The Horizons of Evolutionary Robotics, 125-152.
-
-
-
-[[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)]
-
-Icke, I., Allgaier, N. A., Danforth, C. M., Whelan, R., Garavan, H., Bongard, J. C. (2013) A Deterministic and Symbolic Regression Hybrid Applied to Resting-State fMRI data. In Genetic Programming Theory and Practice IX, Springer.
-
-
-
-[[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)]
-
-Bongard, J. C. (2011) The What, How and the Why of Evolutionary Robotics. In Doncieux, S., Bredeche, N., Mouret, J.-B. (eds.), New Horizons in Evolutionary Robotics (Studies in Computational Intelligence), 341: 29-35.
-
-
-
-[[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)]
-
-Bongard, J. C. (2009) A Functional Crossover Operator for Genetic Programming. In Riolo R., O'Reilly, U.-M., McConaghy, T. (eds.),Genetic Programming Theory and Practice VII, pp. 195-210, Springer.
-
-
-
-[PS] [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)]
-
-Bongard, J. C. and R. Pfeifer (2003) Evolving Complete Agents Using Artificial Ontogeny, in Hara, F. and R. Pfeifer, (eds.), Morpho-functional Machines: The New Species (Designing Embodied Intelligence) Springer-Verlag, pp. 237-258.
+1. [PS] [[PDF](https://jbongard.github.io/papers/20XX_XXX_XXX.pdf)] Bongard, J. C. and R. Pfeifer (2003) Evolving Complete Agents Using Artificial Ontogeny, in Hara, F. and R. Pfeifer, (eds.), Morpho-functional Machines: The New Species (Designing Embodied Intelligence) Springer-Verlag, pp. 237-258.
 
 # Conference Publications
 
