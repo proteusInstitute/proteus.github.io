@@ -8,7 +8,7 @@
 
 # Journal articles
 
-1. [HTML] D Blackiston, E Lederer, S Kriegman, S Garnier, J Bongard, M Levin (2021). A cellular platform for the development of synthetic living machines, *Science Robotics*, vol. 6 no. 52, pp. eabf1571.
+1. [[HTML](https://www.science.org/doi/10.1126/scirobotics.abf1571)] D Blackiston, E Lederer, S Kriegman, S Garnier, J Bongard, M Levin (2021). A cellular platform for the development of synthetic living machines, *Science Robotics*, vol. 6 no. 52, pp. eabf1571.
 
 1. [HTML] JC Bongard & M Levin (2021). Living things are not (20th century) machines. *Frontiers in Ecology and Evolution*. https://doi.org/10.3389/fevo.2021.650726
 
