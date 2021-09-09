@@ -24,19 +24,19 @@
 
 1. Rounds, T., Bongard, J., Hines, P., & Harvey, J. (2019). A crowdsourcing approach to understand weight and weight loss in men. *Preventive Medicine Reports*, 13, 224.
 
-1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] S Kriegman, N Cheney, J Bongard (2018). How morphological development can guide evolution. *Nature Scientific Reports*, 8(1): 13934.
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/2018_NSR_Kriegman.pdf)] S Kriegman, N Cheney, J Bongard (2018). How morphological development can guide evolution. *Nature Scientific Reports*, 8(1): 13934.
 
-1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] F Corucci, N Cheney, F Giorgio-Serchi, J Bongard, and C Laschi (2018). Evolving Soft Locomotion in Aquatic and Terrestrial Environments: Effects of Material Properties and Environmental Transitions. *Soft Robotics* 5.4 (2018): 475-495.
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/2018_SoRo_Corucci.pdf)] F Corucci, N Cheney, F Giorgio-Serchi, J Bongard, and C Laschi (2018). Evolving Soft Locomotion in Aquatic and Terrestrial Environments: Effects of Material Properties and Environmental Transitions. *Soft Robotics* 5.4 (2018): 475-495.
  
-1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] N Cheney, J Bongard, V SunSpiral, H Lipson (2018) Scalable co-optimization of morphology and control in embodied machines. *Journal of The Royal Society Interface*, 15(143): 20170937
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/2018_RoySoc_Cheney.pdf)] N Cheney, J Bongard, V SunSpiral, H Lipson (2018) Scalable co-optimization of morphology and control in embodied machines. *Journal of The Royal Society Interface*, 15(143): 20170937
 
-1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] A Bernatskiy, J Bongard (2018) Evolving morphology automatically reformulates the problem of designing modular control. Adaptive Behavior 26(2): 47-64
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/2018_AdBeh_Bernatskiy.pdf)] A Bernatskiy, J Bongard (2018) Evolving morphology automatically reformulates the problem of designing modular control. Adaptive Behavior 26(2): 47-64
 
-1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] MD Wagy, JC Bongard, JP Bagrow, PDH Hines (2017). Crowdsourcing predictors of residential electric energy usage. IEEE Systems Journal, PP(99):1-10.
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/2017_IEEE_Wagy.pdf)] MD Wagy, JC Bongard, JP Bagrow, PDH Hines (2017). Crowdsourcing predictors of residential electric energy usage. IEEE Systems Journal, PP(99):1-10.
 
-1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] D Buckingham & JC Bongard (2017). Physical Scaffolding Accelerates the Evolution of Robot Behavior. Artificial Life, 23(3):351-373.
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/2017_ALife_Buckingham.pdf)] D Buckingham & JC Bongard (2017). Physical Scaffolding Accelerates the Evolution of Robot Behavior. Artificial Life, 23(3):351-373.
 
-1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] F Corucci, N Cheney, S Kriegman, J Bongard, C Laschi (2017). Evolutionary Developmental Soft Robotics As a Framework to Study Intelligence and Adaptive Behavior in Animals and Plants. Frontiers in Robotics and AI.
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/2017_FrontRobAI_Corucci.pdf)] F Corucci, N Cheney, S Kriegman, J Bongard, C Laschi (2017). Evolutionary Developmental Soft Robotics As a Framework to Study Intelligence and Adaptive Behavior in Animals and Plants. Frontiers in Robotics and AI.
 
 1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] N Livingston, A Bernatskiy, K Livingston, ML Smith, J Schwarz, JC Bongard, D Wallach & JH Long Jr (2016). Modularity and sparsity: evolution of neural net controllers in physically embodied robots. Frontiers in Robotics and AI.
 
