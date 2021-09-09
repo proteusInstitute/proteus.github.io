@@ -14,13 +14,13 @@
 
 1. [[HTML](https://www.nature.com/articles/s42256-020-00263-1)] DS Shah, JP Powers, LG Tilton, S Kriegman, J Bongard & R Kramer-Bottiglio (2020). A soft robot that adapts to environments through shape change. *Nature Machine Intelligence*, https://doi.org/10.1038/s42256-020-00263-1.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/)] D Shah, B Yang, S Kriegman, M Levin, J Bongard, R Kramer-Bottiglio (2020). Shape changing robots: bioinspiration, simulation, and physical realization. *Advanced Materials*. e202002882.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2020_AdvMat_Shah.pdf)] D Shah, B Yang, S Kriegman, M Levin, J Bongard, R Kramer-Bottiglio (2020). Shape changing robots: bioinspiration, simulation, and physical realization. *Advanced Materials*. e202002882.
 
-1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] F Veenstra, P González de Prado Salas, K Stoy, J Bongard & S Risi (2020). Death and progress: How evolvability is influenced by intrinsic mortality. *Artificial Life*, 26(1): 90-111.
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/2020_ALife_Veenstra.pdf)] F Veenstra, P González de Prado Salas, K Stoy, J Bongard & S Risi (2020). Death and progress: How evolvability is influenced by intrinsic mortality. *Artificial Life*, 26(1): 90-111.
 
-1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] S Kriegman, D Blackiston, M Levin, J Bongard (2020). A scalable pipeline for designing reconfigurable organisms. *Proceedings of the National Academy of Sciences*, 117(4): 1853-1859.
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/2020_PNAS_Kriegman.pdf)] S Kriegman, D Blackiston, M Levin, J Bongard (2020). A scalable pipeline for designing reconfigurable organisms. *Proceedings of the National Academy of Sciences*, 117(4): 1853-1859.
 
-1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] I Rahwan, M Cebrian, N Obradovich, J Bongard, J-F Bonnefon, C Breazeal, JW Crandall, NA Christakis, ID Couzin, MO Jackson, NR Jennings, E Kamar, IM Kloumann, H Larochelle, D Lazer, R McElreath, A Mislove, DC Parkes, A Pentland, ME Roberts, A Shariff, JB Tenenbaum & M Wellman (2019). Machine behaviour. *Nature*, 568: 477486
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/2019_Nature_Rahwan.pdf)] I Rahwan, M Cebrian, N Obradovich, J Bongard, J-F Bonnefon, C Breazeal, JW Crandall, NA Christakis, ID Couzin, MO Jackson, NR Jennings, E Kamar, IM Kloumann, H Larochelle, D Lazer, R McElreath, A Mislove, DC Parkes, A Pentland, ME Roberts, A Shariff, JB Tenenbaum & M Wellman (2019). Machine behaviour. *Nature*, 568: 477486
 
 1. Rounds, T., Bongard, J., Hines, P., & Harvey, J. (2019). A crowdsourcing approach to understand weight and weight loss in men. *Preventive Medicine Reports*, 13, 224.
 
