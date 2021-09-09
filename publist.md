@@ -14,79 +14,79 @@
 
 1. [[HTML](https://www.nature.com/articles/s42256-020-00263-1)] DS Shah, JP Powers, LG Tilton, S Kriegman, J Bongard & R Kramer-Bottiglio (2020). A soft robot that adapts to environments through shape change. *Nature Machine Intelligence*, https://doi.org/10.1038/s42256-020-00263-1.
 
-1. [[PDF](https://www.dropbox.com/s/1i772tblht1nlrw/2020_AdvMat_Shah.pdf?dl=0)] D Shah, B Yang, S Kriegman, M Levin, J Bongard, R Kramer-Bottiglio (2020). Shape changing robots: bioinspiration, simulation, and physical realization. *Advanced Materials*. e202002882.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/)] D Shah, B Yang, S Kriegman, M Levin, J Bongard, R Kramer-Bottiglio (2020). Shape changing robots: bioinspiration, simulation, and physical realization. *Advanced Materials*. e202002882.
 
-1. [HTML][[PDF](https://www.dropbox.com/s/1i772tblht1nlrw/2020_AdvMat_Shah.pdf?dl=0)] F Veenstra, P González de Prado Salas, K Stoy, J Bongard & S Risi (2020). Death and progress: How evolvability is influenced by intrinsic mortality. *Artificial Life*, 26(1): 90-111.
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] F Veenstra, P González de Prado Salas, K Stoy, J Bongard & S Risi (2020). Death and progress: How evolvability is influenced by intrinsic mortality. *Artificial Life*, 26(1): 90-111.
 
-1. [HTML][[PDF](https://www.dropbox.com/s/a3cmpo9e856pm0w/2020_PNAS_Kriegman.pdf?dl=0)] S Kriegman, D Blackiston, M Levin, J Bongard (2020). A scalable pipeline for designing reconfigurable organisms. *Proceedings of the National Academy of Sciences*, 117(4): 1853-1859.
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] S Kriegman, D Blackiston, M Levin, J Bongard (2020). A scalable pipeline for designing reconfigurable organisms. *Proceedings of the National Academy of Sciences*, 117(4): 1853-1859.
 
-1. [HTML][[PDF](https://www.dropbox.com/s/6domy2gnj27zymw/2019_Nature_Rahwan.pdf?dl=0)] I Rahwan, M Cebrian, N Obradovich, J Bongard, J-F Bonnefon, C Breazeal, JW Crandall, NA Christakis, ID Couzin, MO Jackson, NR Jennings, E Kamar, IM Kloumann, H Larochelle, D Lazer, R McElreath, A Mislove, DC Parkes, A Pentland, ME Roberts, A Shariff, JB Tenenbaum & M Wellman (2019). Machine behaviour. *Nature*, 568: 477486
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] I Rahwan, M Cebrian, N Obradovich, J Bongard, J-F Bonnefon, C Breazeal, JW Crandall, NA Christakis, ID Couzin, MO Jackson, NR Jennings, E Kamar, IM Kloumann, H Larochelle, D Lazer, R McElreath, A Mislove, DC Parkes, A Pentland, ME Roberts, A Shariff, JB Tenenbaum & M Wellman (2019). Machine behaviour. *Nature*, 568: 477486
 
 1. Rounds, T., Bongard, J., Hines, P., & Harvey, J. (2019). A crowdsourcing approach to understand weight and weight loss in men. *Preventive Medicine Reports*, 13, 224.
 
-1. [HTML][[PDF](https://www.dropbox.com/s/kuma9bit48iplnn/2018_NSR_Kriegman.pdf?dl=0)] S Kriegman, N Cheney, J Bongard (2018). How morphological development can guide evolution. *Nature Scientific Reports*, 8(1): 13934.
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] S Kriegman, N Cheney, J Bongard (2018). How morphological development can guide evolution. *Nature Scientific Reports*, 8(1): 13934.
 
-1. [HTML][[PDF](https://www.dropbox.com/s/mom8va77wgof15f/2018_SoRo_Corucci.pdf?dl=0)] F Corucci, N Cheney, F Giorgio-Serchi, J Bongard, and C Laschi (2018). Evolving Soft Locomotion in Aquatic and Terrestrial Environments: Effects of Material Properties and Environmental Transitions. *Soft Robotics* 5.4 (2018): 475-495.
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] F Corucci, N Cheney, F Giorgio-Serchi, J Bongard, and C Laschi (2018). Evolving Soft Locomotion in Aquatic and Terrestrial Environments: Effects of Material Properties and Environmental Transitions. *Soft Robotics* 5.4 (2018): 475-495.
  
-1. [HTML][[PDF](https://www.dropbox.com/s/k6dq9e58k86edlw/2018_RoySoc_Cheney.pdf?dl=0)] N Cheney, J Bongard, V SunSpiral, H Lipson (2018) Scalable co-optimization of morphology and control in embodied machines. *Journal of The Royal Society Interface*, 15(143): 20170937
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] N Cheney, J Bongard, V SunSpiral, H Lipson (2018) Scalable co-optimization of morphology and control in embodied machines. *Journal of The Royal Society Interface*, 15(143): 20170937
 
-1. [HTML][[PDF](https://www.dropbox.com/s/4df4f5j4n6gkyvn/2018_AdBeh_Bernatskiy.pdf?dl=0)] A Bernatskiy, J Bongard (2018) Evolving morphology automatically reformulates the problem of designing modular control. Adaptive Behavior 26(2): 47-64
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] A Bernatskiy, J Bongard (2018) Evolving morphology automatically reformulates the problem of designing modular control. Adaptive Behavior 26(2): 47-64
 
-1. [HTML][[PDF](https://www.dropbox.com/s/74qndks0axn2k6k/2017_IEEE_Wagy.pdf?dl=0)] MD Wagy, JC Bongard, JP Bagrow, PDH Hines (2017). Crowdsourcing predictors of residential electric energy usage. IEEE Systems Journal, PP(99):1-10.
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] MD Wagy, JC Bongard, JP Bagrow, PDH Hines (2017). Crowdsourcing predictors of residential electric energy usage. IEEE Systems Journal, PP(99):1-10.
 
-1. [HTML][[PDF](https://www.dropbox.com/s/swxm1isfivy29lg/2017_ALife_Buckingham.pdf?dl=0)] D Buckingham & JC Bongard (2017). Physical Scaffolding Accelerates the Evolution of Robot Behavior. Artificial Life, 23(3):351-373.
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] D Buckingham & JC Bongard (2017). Physical Scaffolding Accelerates the Evolution of Robot Behavior. Artificial Life, 23(3):351-373.
 
-1. [HTML][[PDF](https://www.dropbox.com/s/8uho49j61yfydcg/2017_FrontRobAI_Corucci.pdf?dl=0)] F Corucci, N Cheney, S Kriegman, J Bongard, C Laschi (2017). Evolutionary Developmental Soft Robotics As a Framework to Study Intelligence and Adaptive Behavior in Animals and Plants. Frontiers in Robotics and AI.
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] F Corucci, N Cheney, S Kriegman, J Bongard, C Laschi (2017). Evolutionary Developmental Soft Robotics As a Framework to Study Intelligence and Adaptive Behavior in Animals and Plants. Frontiers in Robotics and AI.
 
-1. [HTML][[PDF](https://www.dropbox.com/s/rf3vkkoajc5ymty/2017_FrontRobAI_Livingston.pdf?dl=0)] N Livingston, A Bernatskiy, K Livingston, ML Smith, J Schwarz, JC Bongard, D Wallach & JH Long Jr (2016). Modularity and sparsity: evolution of neural net controllers in physically embodied robots. Frontiers in Robotics and AI.
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] N Livingston, A Bernatskiy, K Livingston, ML Smith, J Schwarz, JC Bongard, D Wallach & JH Long Jr (2016). Modularity and sparsity: evolution of neural net controllers in physically embodied robots. Frontiers in Robotics and AI.
 
-1. [HTML][[PDF](https://www.dropbox.com/s/2bf367x2ffbfq28/2016_ALife_Taylor.pdf?dl=0)] T Taylor, JE Auerbach, J Bongard, J Clune, S Hickinbotham, C Ofria, M Oka, S Risi, KO Stanley, J Yosinski (2016). WebAL comes of age: A review of the first 21 years of artificial life on the web. Artificial Life, 22(3) 364-407.
+1. [HTML][[PDF](https://meclab.w3.uvm.edu/papers/)] T Taylor, JE Auerbach, J Bongard, J Clune, S Hickinbotham, C Ofria, M Oka, S Risi, KO Stanley, J Yosinski (2016). WebAL comes of age: A review of the first 21 years of artificial life on the web. Artificial Life, 22(3) 364-407.
 
-1.  [HTML] [[PDF](https://www.dropbox.com/s/lqcn0mfv42umqwy/2017_FrontRobAI_Cappelle.pdf?dl=0)] CK Cappelle, A Bernatskiy, K Livingston, N Livingston, J Bongard (2016). Morphological modularity can enable the evolution of robot behavior to scale linearly with the number of environmental features. Frontiers in Robotics and AI.
+1.  [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)] CK Cappelle, A Bernatskiy, K Livingston, N Livingston, J Bongard (2016). Morphological modularity can enable the evolution of robot behavior to scale linearly with the number of environmental features. Frontiers in Robotics and AI.
 
-1.  [HTML] [[PDF](https://www.dropbox.com/s/ses92n1a9g2gcpb/2015_COBS_Bongard.pdf?dl=0)]  J Bongard (2015). Using robots to investigate the evolution of adaptive behavior. Current Opinion in Behavioral Sciences, 6: 168-173. 
+1.  [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)]  J Bongard (2015). Using robots to investigate the evolution of adaptive behavior. Current Opinion in Behavioral Sciences, 6: 168-173. 
 
 1. [HTML] M Wagy & J Bongard. (2015). Combining computational and social effort for collaborative problem solving. PLoS ONE, DOI: 10.1371/journal.pone.0142524. 
 
-1. [HTML] [[PDF](https://www.dropbox.com/s/rtawekjtajqb5fh/2015_JHydro_Buckingham.pdf?dl=0)] D Buckingham, C Skalka, and J Bongard (2015). Inductive machine learning for improved estimation of catchment-scale snow water equivalent. Journal of Hydrology, 524: 311-325. 
+1. [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)] D Buckingham, C Skalka, and J Bongard (2015). Inductive machine learning for improved estimation of catchment-scale snow water equivalent. Journal of Hydrology, 524: 311-325. 
 
 1. [HTML] R Swain and A Berger and J Bongard and P Hines. (2015). Participation and contribution in crowdsourced surveys. PLoS ONE, DOI: 10.1371/journal.pone.0120521
 
-1. [HTML] [[PDF](https://www.dropbox.com/s/d5aeuogzipujg3z/2014_IEEE_Bongard.pdf?dl=0)] Bongard, J.C., Lipson, H. (2014). Evolved machines shed light on robustness and resilience. Proceedings of the IEEE, 102(5): 899-914.
+1. [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)] Bongard, J.C., Lipson, H. (2014). Evolved machines shed light on robustness and resilience. Proceedings of the IEEE, 102(5): 899-914.
 
-1. [HTML] [[PDF](https://www.dropbox.com/s/soo7f4q9d8h7tj1/2014_TKDE_Lu.pdf?dl=0)] Lu, Z., Wu, X and Bongard, J. C. (2014). Active learning through adaptive heterogeneous ensembling. IEEE Transactions on Knowledge and Data Engineering, DOI: 10.1109/TKDE.2014.2304474
+1. [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)] Lu, Z., Wu, X and Bongard, J. C. (2014). Active learning through adaptive heterogeneous ensembling. IEEE Transactions on Knowledge and Data Engineering, DOI: 10.1109/TKDE.2014.2304474
 
-1. [HTML] [[PDF](https://www.dropbox.com/s/p3axhuj5lv0iutr/2014_PONE_Bevelander.pdf?dl=0)] Bevelander, K. E., Kaipainen, K., Swain, R., Dohle, S., Bongard, J. C., Hines, P. D. H., Wansink, B. (2014). Crowdsourcing novel childhood predictors of adult obesity.  PLoS ONE DOI: 10.1371/journal.pone.0087756.
+1. [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)] Bevelander, K. E., Kaipainen, K., Swain, R., Dohle, S., Bongard, J. C., Hines, P. D. H., Wansink, B. (2014). Crowdsourcing novel childhood predictors of adult obesity.  PLoS ONE DOI: 10.1371/journal.pone.0087756.
 
-1. [HTML] [[PDF](https://www.dropbox.com/s/3bqae87hzszwn8e/2014_CompBio_Auerbach.pdf?dl=0)] Auerbach, J. E. and Bongard, J. C. (2014). Environmental influence on the evolution of morphological complexity in machines. PLoS Computational Biology, 10(1): e1003399
+1. [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)] Auerbach, J. E. and Bongard, J. C. (2014). Environmental influence on the evolution of morphological complexity in machines. PLoS Computational Biology, 10(1): e1003399
 
-1. [HTML] [[PDF](https://www.dropbox.com/s/7dr0vaxlu8kjl6i/2013_CACM_Bongard.pdf?dl=0)] Bongard J. (2013). Evolutionary robotics. Communications of the ACM 56(8): 74-85.
+1. [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)] Bongard J. (2013). Evolutionary robotics. Communications of the ACM 56(8): 74-85.
 
-1. [HTML] [[PDF](https://www.dropbox.com/s/rtk6jt5fprxx02e/2012_IEEESMCA_Bongard.pdf?dl=0)] Bongard, J. C., Hines, P. D. H., Conger, D., Hurd, P., and Lu, Z. (2012). Crowdsourcing predictors of behavioral outcomes. IEEE Transactions on Systems, Man, and Cybernetics, Part A, DOI: 10.1109/TSMCA.2012.2195168.
+1. [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)] Bongard, J. C., Hines, P. D. H., Conger, D., Hurd, P., and Lu, Z. (2012). Crowdsourcing predictors of behavioral outcomes. IEEE Transactions on Systems, Man, and Cybernetics, Part A, DOI: 10.1109/TSMCA.2012.2195168.
 
-1. [HTML] [[PDF](https://www.dropbox.com/s/41dzgrxzsi6xwlz/2011_PNAS_Bongard.pdf?dl=0)] Bongard J. (2011). Morphological change in machines accelerates the evolution of robust behavior. Proceedings of the National Academy of Sciences 108(4): 1234-1239. 
+1. [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)] Bongard J. (2011). Morphological change in machines accelerates the evolution of robust behavior. Proceedings of the National Academy of Sciences 108(4): 1234-1239. 
 
-1. [HTML] [[PDF](https://www.dropbox.com/s/qtfywxk8r6y66nk/2011_TEC_Bongard.pdf?dl=0)] Bongard J. C. (2011). Innocent until proven guilty: Reducing robot shaping from polynomial to linear time. IEEE Transactions on Evolutionary Computation 15(4): 571-585.
+1. [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)] Bongard J. C. (2011). Innocent until proven guilty: Reducing robot shaping from polynomial to linear time. IEEE Transactions on Evolutionary Computation 15(4): 571-585.
 
-1. [HTML] [[PDF](https://www.dropbox.com/s/un129s4ckqnahtm/2010_NN_Krishnanand.pdf?dl=0)] Krishnanand, K. N., Bongard, J. C., Meltzoff, A. N. (2010) Self discovery enables robot social cognition: Are you my teacher? Neural Networks, Special Issue on the Science of Learning, 23: 1113-1124.
+1. [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)] Krishnanand, K. N., Bongard, J. C., Meltzoff, A. N. (2010) Self discovery enables robot social cognition: Are you my teacher? Neural Networks, Special Issue on the Science of Learning, 23: 1113-1124.
 
-1. [HTML] [[PDF](https://www.dropbox.com/s/qsdfsu9zostc603/2010_ALife_Bongard.pdf?dl=0)] Bongard J. C. (2010). The utility of evolving simulated robot morphology increases with task complexity for object manipulation. Artificial Life, 16(3): 201-223.
+1. [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)] Bongard J. C. (2010). The utility of evolving simulated robot morphology increases with task complexity for object manipulation. Artificial Life, 16(3): 201-223.
 
 1. [[HTML](https://thejns.org/view/journals/j-neurosurg/113/3/article-p585.xml)]  Rughani, A. I., Dumont, T. M., Lu, Z., Bongard, J., Horgan, M. A., Penar, P. L., Tranmer, B. I. (2009) Use of an artificial neural network to predict head injury outcome. Journal of Neurosurgery, DOI: 10.3171/2009.11JNS09857.
 
-1. [HTML] [[PDF](https://www.dropbox.com/s/hmn7hw5q4mx2ry6/2009_TEC_Bongard.pdf?dl=0)] Bongard J. C. (2009). Accelerating self-modeling in cooperative robot teams. IEEE Transactions on Evolutionary Computation, 13(2): 321-332.
+1. [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)] Bongard J. C. (2009). Accelerating self-modeling in cooperative robot teams. IEEE Transactions on Evolutionary Computation, 13(2): 321-332.
 
-1. [HTML] [[PDF](https://jbongard.github.io/papers/2007_XXX_XXX.pdf)] Bongard J. and Lipson H.(2007). Automated reverse engineering of nonlinear dynamical systems. Proceedings of the National Academy of Sciences, 104(24): 9943-9948.
+1. [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)] Bongard J. and Lipson H.(2007). Automated reverse engineering of nonlinear dynamical systems. Proceedings of the National Academy of Sciences, 104(24): 9943-9948.
 
-1. [HTML] [[PDF](https://jbongard.github.io/papers/2006_Science_Bongard.pdf)] Bongard, J., Zykov, V., Lipson, H. (2006). Resilient machines through continuous self-modeling. Science, 314: 1118-1121.
+1. [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)] Bongard, J., Zykov, V., Lipson, H. (2006). Resilient machines through continuous self-modeling. Science, 314: 1118-1121.
 
-1. [HTML] [[PDF](https://jbongard.github.io/papers/2006_IJNME_Kouchmeshky.pdf)] Kouchmeshky, B., Aquino, W., Lipson, H., and Bongard, J. C. (2006). Coevolutionary strategy for structural damage identification using minimal physical testing. International Journal for Numerical Methods in Engineering, 69(5): 1085-1107.
+1. [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)] Kouchmeshky, B., Aquino, W., Lipson, H., and Bongard, J. C. (2006). Coevolutionary strategy for structural damage identification using minimal physical testing. International Journal for Numerical Methods in Engineering, 69(5): 1085-1107.
 
-1. [HTML] [[PDF](https://jbongard.github.io/papers/2005_JMLR_Bongard.pdf)] Bongard J. and Lipson H. (2005) Active coevolutionary learning of deterministic finite automata, Journal of Machine Learning Research, 6(Oct): 1651-1678
+1. [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)] Bongard J. and Lipson H. (2005) Active coevolutionary learning of deterministic finite automata, Journal of Machine Learning Research, 6(Oct): 1651-1678
 
-1. [HTML] [[PDF](https://jbongard.github.io/papers/2005_TEC_Bongard.pdf)] Bongard J. and Lipson H. (2005) Nonlinear system identification using coevolution of models and tests, IEEE Transactions on Evolutionary Computation, 9(4): 361-384.
+1. [HTML] [[PDF](https://meclab.w3.uvm.edu/papers/)] Bongard J. and Lipson H. (2005) Nonlinear system identification using coevolution of models and tests, IEEE Transactions on Evolutionary Computation, 9(4): 361-384.
 
-1. [[PDF](https://jbongard.github.io/papers/2005_ALife_2005.pdf)] Pfeifer, R., F. Iida and J. Bongard (2005) New Robotics: Design Principles for Intelligent Systems, Artificial Life, Special Issue on New Robotics, Evolution and Embodied Cognition, 11(1-2): 99-120.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/)] Pfeifer, R., F. Iida and J. Bongard (2005) New Robotics: Design Principles for Intelligent Systems, Artificial Life, Special Issue on New Robotics, Evolution and Embodied Cognition, 11(1-2): 99-120.
 
 # Conference Publications
 
