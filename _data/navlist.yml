@@ -6,6 +6,9 @@ docs:
 - pagetitle: Team
   url: /team
   
+- pagetitle: ProteusTV
+  url: https://www.twitch.tv/proteusteevee
+  
 - pagetitle: Workshops
   url: /workshops
       
