@@ -9,6 +9,9 @@ docs:
 - pagetitle: ProteusTV
   url: https://www.twitch.tv/proteusteevee
   
+- pagetitle: Videos
+  url: /videos
+  
 - pagetitle: Workshops
   url: /workshops
       
