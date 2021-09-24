@@ -1,4 +1,4 @@
-S01E01: [Introduction, and coding bots](https://youtu.be/Dz6HciWT60w).
+S01E01: [Coding bots, Part I](https://youtu.be/Dz6HciWT60w).
 
 S01E02: [Coding Conway's Game of Life](https://youtu.be/a9-Rq3tv-eY).
 
