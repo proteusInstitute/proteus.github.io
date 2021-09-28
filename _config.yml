@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: The Proteus Institute
-description: Dedicated to facilitating the creation of bio-inspired AI.
+description: Creating bio-inspired and biological machines.
 plugins:
   - jekyll-relative-links
 relative_links:
